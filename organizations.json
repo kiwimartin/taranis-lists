@@ -34,6 +34,10 @@
                 {
                     "value": "Bundesamt für Sicherheit im Gesundheitswesen",
                     "category": "health-organization"
+                },
+                {
+                    "value": "Austrian Health CERT",
+                    "category": "health-organization"
                 }
             ]
         }
