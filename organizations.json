@@ -3,9 +3,9 @@
     "data": [
         {
             "name": "organizations",
-            "description": "https://raw.githubusercontent.com/kiwimartin/taranis-lists/main/organizations.json",
+            "description": "",
             "usage": 4,
-            "link": "",
+            "link": "https://raw.githubusercontent.com/kiwimartin/taranis-lists/main/organizations.json",
             "entries": [
                 {
                     "value": "AGES",
