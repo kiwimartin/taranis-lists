@@ -1,0 +1,31 @@
+{
+    "version": 1,
+    "data": [
+        {
+            "name": "organizations",
+            "description": "",
+            "usage": 4,
+            "link": "",
+            "entries": [
+                {
+                    "value": "AGES",
+                    "category": "organizations",
+                },
+                {
+                    "value": "BRZ",
+                    "category": "organizations",
+                },
+                {
+                    "value": "Bundesrechenzentrum",
+                    "category": "organizations",
+                },
+                {
+                    "value": "AKH",
+                    "category": "organizations",
+                },
+                {
+                    "value": "Allgemeines Krankenhaus",
+                    "category": "organizations",
+                }
+        }
+}
