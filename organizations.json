@@ -3,7 +3,7 @@
     "data": [
         {
             "name": "organizations",
-            "description": "",
+            "description": "https://raw.githubusercontent.com/kiwimartin/taranis-lists/main/organizations.json",
             "usage": 4,
             "link": "",
             "entries": [
