@@ -9,23 +9,25 @@
             "entries": [
                 {
                     "value": "AGES",
-                    "category": "organizations",
+                    "category": "organizations"
                 },
                 {
                     "value": "BRZ",
-                    "category": "organizations",
+                    "category": "organizations"
                 },
                 {
                     "value": "Bundesrechenzentrum",
-                    "category": "organizations",
+                    "category": "organizations"
                 },
                 {
                     "value": "AKH",
-                    "category": "organizations",
+                    "category": "organizations"
                 },
                 {
                     "value": "Allgemeines Krankenhaus",
-                    "category": "organizations",
+                    "category": "organizations"
                 }
-        }]
+            ]
+        }
+    ]
 }
