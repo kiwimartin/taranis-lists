@@ -2,30 +2,38 @@
     "version": 1,
     "data": [
         {
-            "name": "organizations",
+            "name": "health-organization",
             "description": "",
             "usage": 4,
             "link": "https://raw.githubusercontent.com/kiwimartin/taranis-lists/main/organizations.json",
             "entries": [
                 {
                     "value": "AGES",
-                    "category": "organizations"
+                    "category": "health-organization"
                 },
                 {
                     "value": "BRZ",
-                    "category": "organizations"
+                    "category": "health-organization"
                 },
                 {
                     "value": "Bundesrechenzentrum",
-                    "category": "organizations"
+                    "category": "health-organization"
                 },
                 {
                     "value": "AKH",
-                    "category": "organizations"
+                    "category": "health-organization"
                 },
                 {
                     "value": "Allgemeines Krankenhaus",
-                    "category": "organizations"
+                    "category": "health-organization"
+                },
+                {
+                    "value": "BASG",
+                    "category": "health-organization"
+                },
+                {
+                    "value": "Bundesamt für Sicherheit im Gesundheitswesen",
+                    "category": "health-organization"
                 }
             ]
         }
