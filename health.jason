@@ -1,0 +1,160 @@
+{
+    "version": 1,
+    "data": [
+        {
+            "name": "health",
+            "description": "",
+            "usage": 4,
+            "link": "https://raw.githubusercontent.com/kiwimartin/taranis-lists/main/organizations.json",
+            "entries": [
+                {
+                    "value": "AGES",
+                    "category": "Health organization"
+                },
+                {
+                    "value": "BRZ",
+                    "category": "Organization"
+                },
+                {
+                    "value": "Bundesrechenzentrum",
+                    "category": "Organization"
+                },
+                {
+                    "value": "AKH",
+                    "category": "Health organization"
+                },
+                {
+                    "value": "Allgemeines Krankenhaus",
+                    "category": "Health organization"
+                },
+                {
+                    "value": "BASG",
+                    "category": "Health organization"
+                },
+                {
+                    "value": "Bundesamt für Sicherheit im Gesundheitswesen",
+                    "category": "Health organization"
+                },
+                {
+                    "value": "Austrian Health CERT",
+                    "category": "Health organization"
+                },
+                {
+                    "value": "Burgenländischer Gesundheitsfonds",
+                    "category": "Health organization",
+                    "description": "Burgenländischer Gesundheitsfonds (BURGEF)"
+                },
+                {
+                    "value": "BURGEF",
+                    "category": "Health organization",
+                    "description": "Burgenländischer Gesundheitsfonds (BURGEF)"
+                },
+                {
+                    "value": "Kärntner Gesundheitsfonds",
+                    "category": "Health organization",
+                    "description": "Kärntner Gesundheitsfonds (kgf)"
+                },
+                {
+                    "value": "kgf",
+                    "category": "Health organization",
+                    "description": "Kärntner Gesundheitsfonds (kgf)"
+                },
+                {
+                    "value": "NÖ Gesundheits- und Sozialfonds",
+                    "category": "Health organization",
+                    "description": "NÖ Gesundheits- und Sozialfonds (NÖGUS)"
+                },
+                {
+                    "value": "NÖGUS",
+                    "category": "Health organization",
+                    "description": "NÖ Gesundheits- und Sozialfonds (NÖGUS)"
+                },
+                {
+                    "value": "Oö. Gesundheitsfonds",
+                    "category": "Health organization",
+                    "description": "Burgenländischer Gesundheitsfonds (BURGEF)"
+                },
+                {
+                    "value": "Salzburger Gesundheitsfonds",
+                    "category": "Health organization",
+                    "description": "Salzburger Gesundheitsfonds (SAGES)"
+                },
+                {
+                    "value": "SAGES",
+                    "category": "Health organization",
+                    "description": "Salzburger Gesundheitsfonds (SAGES)"
+                },
+                {
+                    "value": "Gesundheitsfonds Steiermark",
+                    "category": "Health organization",
+                    "description": "Gesundheitsfonds Steiermark"
+                },
+                {
+                    "value": "Tiroler Gesundheitsfonds",
+                    "category": "Health organization",
+                    "description": "Tiroler Gesundheitsfonds (TGF)"
+                },
+                {
+                    "value": "TGF",
+                    "category": "Health organization",
+                    "description": "Tiroler Gesundheitsfonds (TGF)"
+                },
+                {
+                    "value": "Gesundheitsfonds für das Land Vorarlberg",
+                    "category": "Health organization",
+                    "description": "Gesundheitsfonds für das Land Vorarlberg"
+                },
+                {
+                    "value": "Wiener Gesundheitsfonds",
+                    "category": "Health organization",
+                    "description": "Wiener Gesundheitsfonds"
+                },
+                {
+                    "value": "WIGEF",
+                    "category": "Health organization",
+                    "description": "Wiener Gesundheitsfonds"
+                },
+                {
+                    "value": "Wiener Gesundheitsfonds",
+                    "category": "Health organization",
+                    "description": "Wiener Gesundheitsfonds"
+                },
+                {
+                    "value": "WIGEF",
+                    "category": "Health organization",
+                    "description": "Wiener Gesundheitsfonds"
+                },
+                {
+                    "value": "Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz",
+                    "category": "Health organization",
+                    "description": "Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz"
+                },
+                {
+                    "value": "BMSGPK",
+                    "category": "Health organization",
+                    "description": "Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz"
+                },
+                {
+                    "value": "Sozialministerium",
+                    "category": "Health organization",
+                    "description": "Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz"
+                },
+                {
+                    "value": "Bundesgesundheitsagentur",
+                    "category": "Health organization",
+                    "description": "Bundesgesundheitsagentur"
+                },
+                {
+                    "value": "Bundes-Zielsteuerungskommission",
+                    "category": "Organization",
+                    "description": "Bundes-Zielsteuerungskommission"
+                },
+                {
+                    "value": "B-ZK",
+                    "category": "Organization",
+                    "description": "Bundes-Zielsteuerungskommission"
+                }
+            ]
+        }
+    ]
+}
