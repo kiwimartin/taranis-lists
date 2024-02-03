@@ -1,1 +1,29 @@
-
+{
+    "version": 1,
+    "data": [
+        {
+            "name": "health-vendors",
+            "description": "Medizinproduktehersteller",
+            "usage": 4,
+            "link": "https://raw.githubusercontent.com/kiwimartin/taranis-lists/main/health-vendors.json",
+            "entries": [
+                {
+                    "value": "B. Braun",
+                    "category": "Medizinproduktehersteller"
+                },
+                {
+                    "value": "Phillips",
+                    "category": "Medizinproduktehersteller"
+                },
+                {
+                    "value": "Siemens Healthineers",
+                    "category": "Medizinproduktehersteller"
+                },
+                {
+                    "value": "GE HealthCare",
+                    "category": "Medizinproduktehersteller"
+                }
+            ]
+        }
+    ]
+}
