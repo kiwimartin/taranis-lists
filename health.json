@@ -5,7 +5,7 @@
             "name": "health",
             "description": "",
             "usage": 4,
-            "link": "https://raw.githubusercontent.com/kiwimartin/taranis-lists/main/organizations.json",
+            "link": "https://raw.githubusercontent.com/kiwimartin/taranis-lists/main/health.json",
             "entries": [
                 {
                     "value": "AGES",
