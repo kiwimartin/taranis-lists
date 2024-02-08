@@ -20,6 +20,10 @@
                     "category": "Einrichtungen"
                 },
                 {
+                    "value": "Krankenanstalt",
+                    "category": "Einrichtungen"
+                },
+                {
                     "value": "Uniklinik",
                     "category": "Einrichtungen"
                 },
@@ -30,7 +34,47 @@
                 {
                     "value": "Universitätsklinik",
                     "category": "Einrichtungen"
-                }
+                },
+                {
+                    "value": "Klinikum",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Spitalsambulanz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Standardkrankenanstalt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Notfallrettungstransport",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Schwerpunktkrankenanstalt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Zentralkrankenanstalt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Unfallchirurgie",
+                    "category": "Krankenanstalt Fachrichtung"
+                },
+                {
+                    "value": "Orthopädie",
+                    "category": "Krankenanstalt Fachrichtung"
+                },
+                {
+                    "value": "Kinder- und Jugendheilkunde",
+                    "category": "Krankenanstalt Fachrichtung"
+                },
+                {
+                    "value": "Traumatologie",
+                    "category": "Krankenanstalt Fachrichtung"
+                }                
             ]
         }
     ]
