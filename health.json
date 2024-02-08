@@ -9,7 +9,15 @@
             "entries": [
                 {
                     "value": "Krankenhaus",
-                    "category": "Healthcare"
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinik",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Bezirksklinik",
+                    "category": "Einrichtungen"
                 }
             ]
         }
