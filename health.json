@@ -18,6 +18,18 @@
                 {
                     "value": "Bezirksklinik",
                     "category": "Einrichtungen"
+                },
+                {
+                    "value": "Uniklinik",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinikum",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Universitätsklinik",
+                    "category": "Einrichtungen"
                 }
             ]
         }
