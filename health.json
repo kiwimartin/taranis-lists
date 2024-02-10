@@ -12,7 +12,11 @@
                     "category": "Einrichtungen"
                 },
                 {
-                    "value": "Klinik",
+                    "value": "Hostpital",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Clinic",
                     "category": "Einrichtungen"
                 },
                 {
