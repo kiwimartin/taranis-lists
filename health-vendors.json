@@ -22,6 +22,18 @@
                 {
                     "value": "GE HealthCare",
                     "category": "Medizinproduktehersteller"
+                },
+                {
+                    "value": "Roche",
+                    "category": "Medizinproduktehersteller"
+                },
+                {
+                    "value": "Roche Diagnostics",
+                    "category": "Medizinproduktehersteller"
+                },
+                {
+                    "value": "Sirona",
+                    "category": "Medizinproduktehersteller"
                 }
             ]
         }
