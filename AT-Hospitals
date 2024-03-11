@@ -2,8 +2,8 @@
     "version": 1,
     "data": [
         {
-            "name": "health-organization",
-            "description": "",
+            "name": "hospitals",
+            "description": "Hospitals located in Austria",
             "usage": 4,
             "link": "https://raw.githubusercontent.com/kiwimartin/taranis-lists/main/organizations.json",
             "entries": [
