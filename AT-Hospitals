@@ -1,0 +1,1342 @@
+[
+    {
+        "Bezeichnung":  "Rehabilitationszentrum für Herz-Kreislauferkrankungen Bad Tatzmannsdorf",
+        "Kurzbezeichnung":  "Bad Tatzmannsd REHA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Krankenhaus der Barmherzigen Brüder Eisenstadt GmbH",
+        "Kurzbezeichnung":  "Eisenstadt BBR KH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Klinik Güssing",
+        "Kurzbezeichnung":  "Güssing KL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Klinik Kittsee",
+        "Kurzbezeichnung":  "Kittsee KL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Klinik Oberpullendorf",
+        "Kurzbezeichnung":  "Oberpullendorf KL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Klinik Oberwart",
+        "Kurzbezeichnung":  "Oberwart KL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Orthopädisches Klinikum SKA Zicksee",
+        "Kurzbezeichnung":  "St Andrä SKA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Heilpädagogisches Zentrum Rust",
+        "Kurzbezeichnung":  "Rust HPZ",
+        "Versorgungssektor":  "Langzeitversorgung"
+    },
+    {
+        "Bezeichnung":  "BVAEB Therapiezentrum Rosalienhof",
+        "Kurzbezeichnung":  "Bad Tatzmannsdorf SKA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Sonderkrankenanstalt  Onkologische Rehabilitation - Der Sonnberghof",
+        "Kurzbezeichnung":  "Bad Sauerbrunn SKA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Sonderkrankenanstalt für neurologische Rehabilitation Kittsee",
+        "Kurzbezeichnung":  "Kittsee SKA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Krankenhaus des Deutschen Ordens Friesach GmbH",
+        "Kurzbezeichnung":  "Friesach DO KH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Gailtal-Klinik Hermagor",
+        "Kurzbezeichnung":  "Gailtal KL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Klinikum - Klagenfurt am Wörthersee (LKH Klagenfurt)",
+        "Kurzbezeichnung":  "Klagenfurt KL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Krankenhaus der Elisabethinen Klagenfurt GmbH",
+        "Kurzbezeichnung":  "Klagenfurt ELISAB KH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Unfallkrankenhaus Klagenfurt",
+        "Kurzbezeichnung":  "Klagenfurt UKH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Abteilung für chronische Kranke im Klinikum Klagenfurt am Wörthersee",
+        "Kurzbezeichnung":  "Klagenfurt CHRKA",
+        "Versorgungssektor":  "Langzeitversorgung"
+    },
+    {
+        "Bezeichnung":  "Privatklinik Maria Hilf Klagenfurt",
+        "Kurzbezeichnung":  "Klagenfurt PKL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Landeskrankenhaus Laas",
+        "Kurzbezeichnung":  "Laas LKH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Krankenhaus der Barmherzigen Brüder St. Veit/Glan",
+        "Kurzbezeichnung":  "St Veit/Glan BBR KH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Krankenhaus Spittal/Drau",
+        "Kurzbezeichnung":  "Spittal/Drau KH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Landeskrankenhaus Villach",
+        "Kurzbezeichnung":  "Villach LKH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Abteilung für chronisch Kranke im Landeskrankenhaus Villach",
+        "Kurzbezeichnung":  "Villach CHRKA",
+        "Versorgungssektor":  "Langzeitversorgung"
+    },
+    {
+        "Bezeichnung":  "Krankenhaus Waiern",
+        "Kurzbezeichnung":  "Waiern KH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Landeskrankenhaus Wolfsberg",
+        "Kurzbezeichnung":  "Wolfsberg LKH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Abteilung für chronische Kranke und Zentrum für Lymphologie im Landeskrankenhaus Wolfsberg",
+        "Kurzbezeichnung":  "Wolfsberg CHR-LYMPH",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Sonderkrankenanstalt de La Tour",
+        "Kurzbezeichnung":  "Winklern SKA",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Privatklinik Villach",
+        "Kurzbezeichnung":  "Villach PKL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Interdisziplinäre Sonderkrankenanstalt für Rehabilitation",
+        "Kurzbezeichnung":  "Althofen SKA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Sonderkrankenanstalt  Die Schrothkur Obervellach",
+        "Kurzbezeichnung":  "Obervellach SKA",
+        "Versorgungssektor":  "Genesung/Prävention"
+    },
+    {
+        "Bezeichnung":  "Abteilung für chronisch Kranke im Landeskrankenhaus Laas",
+        "Kurzbezeichnung":  "Laas CHRKA",
+        "Versorgungssektor":  "Langzeitversorgung"
+    },
+    {
+        "Bezeichnung":  "Sonderkrankenanstalt für Orthopädie und orthopädische Chirurgie Warmbad-Villach",
+        "Kurzbezeichnung":  "Warmbad-Villach SKA OR",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Rehabilitationsklinik für seelische Gesundheit und Prävention",
+        "Kurzbezeichnung":  "Klagenfurt SKA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Sonderkrankenanstalt für medizinische Rehabilitation Thermenhof",
+        "Kurzbezeichnung":  "Warmbad-Villach SKA REHA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "KABEG Gailtalklinik",
+        "Kurzbezeichnung":  "Hermagor SKA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Sonderkrankenhaus Sarepta-Spezialkliinik für Essstörungen",
+        "Kurzbezeichnung":  "Feldkirchen Sarepta SKA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Landesklinikum Amstetten",
+        "Kurzbezeichnung":  "Amstetten LKL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Klinikum am Kurpark Baden für Orthopädie und Rheumatologie",
+        "Kurzbezeichnung":  "Baden KL",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Sonderkrankenanstalt Bad Schönau",
+        "Kurzbezeichnung":  "Bad Schönau SKA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "SKA-RZ-Pensionsversicherungsanstalt Felbring im Schneebergland",
+        "Kurzbezeichnung":  "Felbring REHA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Landesklinikum Hochegg",
+        "Kurzbezeichnung":  "Hochegg LKL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Landesklinikum Hainburg",
+        "Kurzbezeichnung":  "Hainburg LKL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Rehabilitationszentrum Hochegg",
+        "Kurzbezeichnung":  "Hochegg REHA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Landesklinikum Hollabrunn",
+        "Kurzbezeichnung":  "Hollabrunn LKL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Landesklinikum Klosterneuburg",
+        "Kurzbezeichnung":  "Klosterneuburg LKL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Universitätsklinikum Krems",
+        "Kurzbezeichnung":  "Krems UnivKL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Rehabilitationszentrum für Bewegungsstörungen und rheumatische Erkrankungen",
+        "Kurzbezeichnung":  "Laab im Walde REHA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Landesklinikum Mauer",
+        "Kurzbezeichnung":  "Mauer LKL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Landesklinikum Melk",
+        "Kurzbezeichnung":  "Melk LKL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Landesklinikum Mistelbach-Gänserndorf",
+        "Kurzbezeichnung":  "Mistelbach LKL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Landesklinikum Neunkirchen",
+        "Kurzbezeichnung":  "Neunkirchen LKL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Sonderkrankenanstalt Gesundheitsresort Raxblick",
+        "Kurzbezeichnung":  "Reichenau/Rax SKA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Landesklinikum Scheibbs",
+        "Kurzbezeichnung":  "Scheibbs LKL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Sonderkrankenanstalt der Justizanstalt Wien-Josefstadt (Außenstelle Wilhelmshöhe)",
+        "Kurzbezeichnung":  "Tullnerbach-Pressbaum SKA",
+        "Versorgungssektor":  "Langzeitversorgung"
+    },
+    {
+        "Bezeichnung":  "Landesklinikum Waidhofen/Ybbs",
+        "Kurzbezeichnung":  "Waidhofen/Ybbs LKL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Landesklinikum Wiener Neustadt",
+        "Kurzbezeichnung":  "Wiener Neustadt LKL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Therapiezentrum Ybbs",
+        "Kurzbezeichnung":  "Ybbs THERZ",
+        "Versorgungssektor":  "Langzeitversorgung"
+    },
+    {
+        "Bezeichnung":  "Österreichische Gesundheitskasse - Mein Peterhof Baden",
+        "Kurzbezeichnung":  "Baden Peterhof (OEGK) REHA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "R-SKA Baden",
+        "Kurzbezeichnung":  "Baden SKA REHA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Sonderkrankenanstalt für Herz- und Kreislauferkrankungen Groß Gerungs",
+        "Kurzbezeichnung":  "Groß Gerungs SKA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Rehabilitationszentrum 'Weißer Hof' Klosterneuburg",
+        "Kurzbezeichnung":  "Klosterneuburg REHA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Sonderkrankenanstalt Moorheilbad Harbach",
+        "Kurzbezeichnung":  "Harbach SKA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Rehabilitationszentrum Alland",
+        "Kurzbezeichnung":  "Alland REHA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Klinik Pirawarth, Kur- und Rehabilitationszentrum",
+        "Kurzbezeichnung":  "Bad Pirawarth SKA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "BVAEB Therapiezentrum Buchenberg",
+        "Kurzbezeichnung":  "Buchenberg SKA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Landesklinikum Horn-Allentsteig",
+        "Kurzbezeichnung":  "Horn-Allentsteig LKL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Landesklinikum Korneuburg-Stockerau",
+        "Kurzbezeichnung":  "Korneuburg-Stockerau LKL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Universitätsklinikum Tulln",
+        "Kurzbezeichnung":  "Tulln UnivKL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Landesklinikum Baden-Mödling-Hinterbrühl",
+        "Kurzbezeichnung":  "Baden-Mödling-Hinterbrühl LKL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Sonderkrankenanstalt Marienhof",
+        "Kurzbezeichnung":  "Aspang SKA",
+        "Versorgungssektor":  "Langzeitversorgung"
+    },
+    {
+        "Bezeichnung":  "Universitätsklinikum St. Pölten-Lilienfeld",
+        "Kurzbezeichnung":  "St Pölten-LF UnivKL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Landesklinikum Gmünd-Waidhofen/Thaya-Zwettl",
+        "Kurzbezeichnung":  "Gmünd-W/T-Zwettl LKL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Psychosomatisches Zentrum Eggenburg - Rehabilitationsklinik Gars am Kamp",
+        "Kurzbezeichnung":  "Eggenburg SKA",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Sonderkrankenanstalt Ottenschlag",
+        "Kurzbezeichnung":  "Ottenschlag SKA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "BVAEB Rehabilitationszentrum Engelsbad",
+        "Kurzbezeichnung":  "Baden Engelsbad REHA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Waldsanatorium Perchtoldsdorf",
+        "Kurzbezeichnung":  "Perchtoldsdorf SAN",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Sonderkrankenanstalt für Psychiatrie Krems-Hollenburg",
+        "Kurzbezeichnung":  "Krems-Hollenburg PKL",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Psychosomatisches Zentrum Eggenburg - Rehabilitationsklinik Gars am Kamp (gehört zu K384)",
+        "Kurzbezeichnung":  "Gars am Kamp SKA* (K384)",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Sonderkrankenanstalt für Remobilisation/Nachsorge und onkologische Rehabilitation",
+        "Kurzbezeichnung":  "Bad Erlach SKA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "kokon Bad Erlach, Reha für junge Menschen",
+        "Kurzbezeichnung":  "Bad Erlach REHA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Sonderkrankenanstalt für stationäre psychiatrische Rehabilitation",
+        "Kurzbezeichnung":  "Klosterneuburg SKA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Krankenhaus 'St. Josef'  Braunau am Inn",
+        "Kurzbezeichnung":  "Braunau St Josef KH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Klinikum Freistadt",
+        "Kurzbezeichnung":  "Freistadt KL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Sonderkrankenanstalt für neurologische und pneumologische Rehabilitation",
+        "Kurzbezeichnung":  "Enns REHA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Sanitätsanstalt Hörsching des Militärkommandos Oberösterreich",
+        "Kurzbezeichnung":  "Hörsching HSA",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Krankenhaus der Barmherzigen Brüder Linz",
+        "Kurzbezeichnung":  "Linz BBR KH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Krankenhaus der Barmherzigen Schwestern vom Hl. Vinzenz von Paul Linz",
+        "Kurzbezeichnung":  "Linz BHS KH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Krankenhaus der Elisabethinen Linz",
+        "Kurzbezeichnung":  "Linz ELISAB KH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Unfallkrankenhaus Linz",
+        "Kurzbezeichnung":  "Linz UKH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Klinik Diakonissen Linz",
+        "Kurzbezeichnung":  "Linz DIA KH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Krankenhaus der Barmherzigen Schwestern vom Hl. Vinzenz von Paul Ried",
+        "Kurzbezeichnung":  "Ried/Innkr BHS KH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Klinikum Schärding",
+        "Kurzbezeichnung":  "Schärding KL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Sonderkrankenanstalt Sierning",
+        "Kurzbezeichnung":  "Sierning KSR SKA",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Klinikum Wels-Grieskirchen",
+        "Kurzbezeichnung":  "Wels-Grieskirchen KL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Sonderkrankenanstalt zur Behandlung unspezifischer Atemwegserkrankungen, Erkrankungen des rheumatischen Formenkreises sowie für postoperative Rehabilitation",
+        "Kurzbezeichnung":  "Weyer/Enns REHA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Klinikum Bad Hall für Herz- Kreislauf- und neurologische Rehabilitation",
+        "Kurzbezeichnung":  "Bad Hall HKZ",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Sonderkrankenanstalt  - Rehabilitationszentrum Bad Schallerbach (SKA - RZ Bad Schallerbach)",
+        "Kurzbezeichnung":  "Bad Schallerbach SKA - REHA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Klinikum Rohrbach",
+        "Kurzbezeichnung":  "Rohrbach KL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Rehabilitationszentrum Bad Ischl-Lindau",
+        "Kurzbezeichnung":  "Bad Ischl REHA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Rehabilitationszentrum St. Georgen",
+        "Kurzbezeichnung":  "St Georgen REHA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Sonderkrankenanstalt für Kinder- und Jugendneuropsychiatrie",
+        "Kurzbezeichnung":  "Linz SKA",
+        "Versorgungssektor":  "Langzeitversorgung"
+    },
+    {
+        "Bezeichnung":  "HerzReha Herz Kreislaufzentrum Bad Ischl",
+        "Kurzbezeichnung":  "Bad Ischl SKA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Sonderkrankenanstalt für Herz- und Kreislauferkrankungen, Stoffwechselerkrankungen sowie Atemwegserkrankungen - BVAEB Rehabilitationszentrum Austria",
+        "Kurzbezeichnung":  "Bad Schallerbach SKA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "OptimaMed Rehabilitationszentrum Aspach",
+        "Kurzbezeichnung":  "Aspach REHA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Sonderkrankenanstalt für neurologische und orth. Rehabilitation und Kinderrehabilitation",
+        "Kurzbezeichnung":  "Wilhering SKA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "OptimaMed Rehabilitationszentrum Bad Wimsbach",
+        "Kurzbezeichnung":  "Bad Wimsbach-Neydharting SKA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Sonderkrankenanstalt für neurologische Rehabilitation Altmünster",
+        "Kurzbezeichnung":  "Altmünster SKA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Das Klinikum Bad Hall/Bad Schallerbach, Zentrum für Herz-Kreislauf-, neurologische und orthopädische Rehabilitation (Standort Bad Schallerbach)",
+        "Kurzbezeichnung":  "Bad Schallerbach KL",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Pyhrn-Eisenwurzen Klinikum Kirchdorf Steyr",
+        "Kurzbezeichnung":  "Pyhrn-Eisenwurzen KL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Linz Kepler Universitätsklinikum",
+        "Kurzbezeichnung":  "Linz Kepler UnivKL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Salzkammergut-Klinikum",
+        "Kurzbezeichnung":  "Gmunden-Bad Ischl-Vöcklabr KL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Sonderkrankenanstalt Rehabilitationszentrum für psychische Rehabilitation in Bad Hall - BVAEB Therapiezentrum Justuspark",
+        "Kurzbezeichnung":  "Bad Hall TZ REHA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Rehabilitationszentrum Vortuna Bad Leonfelden",
+        "Kurzbezeichnung":  "Bad Leonfelden REHA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "kokon Rohrbach-Berg Reha für junge Menschen",
+        "Kurzbezeichnung":  "Rohrbach-Berg SKA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Rehabilitationszentrum Bad Hofgastein",
+        "Kurzbezeichnung":  "Bad Hofg REHA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Landesklinik Hallein",
+        "Kurzbezeichnung":  "Hallein LKL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Krankenhaus Oberndorf",
+        "Kurzbezeichnung":  "Oberndorf KH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Krankenanstalt Obertauern Dr. Aufmesser",
+        "Kurzbezeichnung":  "Obertauern KA",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Sanatorium Oberthurnhof  St. Jakob am Thurn",
+        "Kurzbezeichnung":  "Puch/Hallein SAN",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Krankenanstalt Radstadt Dr. Aufmesser",
+        "Kurzbezeichnung":  "Radstadt KH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Landeskrankenhaus Salzburg - Universitätsklinikum der PMU",
+        "Kurzbezeichnung":  "Salzburg LKA",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Unfallkrankenhaus Salzburg",
+        "Kurzbezeichnung":  "Salzburg UKH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Privatklinik Wehrle - Diakonissen, Standort Aigen",
+        "Kurzbezeichnung":  "Salzburg Wehrle-DIA PKL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Krankenhaus der Barmherzigen Brüder  Salzburg",
+        "Kurzbezeichnung":  "Salzburg BBR KH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Christian-Doppler-Klinik Salzburg - Universitätsklinikum der PMU",
+        "Kurzbezeichnung":  "Salzburg LNKL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Landesklinik St. Veit",
+        "Kurzbezeichnung":  "St Veit LKL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Kardinal Schwarzenberg Klinikum",
+        "Kurzbezeichnung":  "Schwarzach KS KL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Landesklinik Tamsweg",
+        "Kurzbezeichnung":  "Tamsweg LKL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Tauernklinikum Standort Zell am See und Standort Mittersill",
+        "Kurzbezeichnung":  "Tauern KL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Klinikum Bad Gastein für Orthopädie und Rheumatologie",
+        "Kurzbezeichnung":  "Bad Gastein SKA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Suchthilfe Klinik Salzburg",
+        "Kurzbezeichnung":  "Salzburg SKH",
+        "Versorgungssektor":  "Langzeitversorgung"
+    },
+    {
+        "Bezeichnung":  "Rehabilitationszentrum Saalfelden",
+        "Kurzbezeichnung":  "Saalfelden REHA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Privatklinik Ritzensee",
+        "Kurzbezeichnung":  "Saalfelden PKL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Rehabilitationszentrum Großgmain",
+        "Kurzbezeichnung":  "Großgmain REHA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Emco Privatklinik",
+        "Kurzbezeichnung":  "Bad Dürrnberg PKL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Klinik St. Barbara - Medizinisches Zentrum Bad Vigaun",
+        "Kurzbezeichnung":  "Bad Vigaun KL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "PKS Privatklinik Salzburg",
+        "Kurzbezeichnung":  "Salzburg PKL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Krankenanstalt Altenmarkt",
+        "Kurzbezeichnung":  "Altenmarkt KH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Krankenhaus Abtenau",
+        "Kurzbezeichnung":  "Abtenau PFH",
+        "Versorgungssektor":  "Langzeitversorgung"
+    },
+    {
+        "Bezeichnung":  "NeuroCare Rehaklinik Salzburg",
+        "Kurzbezeichnung":  "Salzburg REHA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Rehabilitationszentrum für Stoffwechsel- und Gastroenterologische Erkrankungen",
+        "Kurzbezeichnung":  "Hallein SKA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Rehabilitstionszentrum Oberndorf",
+        "Kurzbezeichnung":  "Oberndorf REHA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Rehabilitationszentrum Bad Vigaun",
+        "Kurzbezeichnung":  "Bad Vigaun REHA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Sonderkrankenanstalt für Neurorehabilitation für Kinder und Jugendliche",
+        "Kurzbezeichnung":  "Salzburg NEURO-REHA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Landesklinik St Veit (gehört zu K533)",
+        "Kurzbezeichnung":  "St Veit LKL* (K533)",
+        "Versorgungssektor":  "Langzeitversorgung"
+    },
+    {
+        "Bezeichnung":  "Onkologisches Rehabilitationszentrum St. Veit/Pongau",
+        "Kurzbezeichnung":  "St Veit/Pongau REHA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Rehaklinik Sonnberg",
+        "Kurzbezeichnung":  "St Veit Sonnberg REHA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Rehabilitationszentrum Aflenz",
+        "Kurzbezeichnung":  "Aflenz REHA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Rehabilitationszentrum Bad Aussee",
+        "Kurzbezeichnung":  "Bad Aussee REHA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Klinikum Bad Gleichenberg für Lungen- und Stoffwechselerkrankungen",
+        "Kurzbezeichnung":  "Bad Gleichenberg KL",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Landeskrankenhaus Oststeiermark",
+        "Kurzbezeichnung":  "Oststeiermark LKH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "AMEOS Klinikum Bad Aussee",
+        "Kurzbezeichnung":  "Bad Aussee SKA",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Landeskrankenhaus-Universitätsklinikum Graz",
+        "Kurzbezeichnung":  "Graz LKH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Unfallkrankenhaus Steiermark",
+        "Kurzbezeichnung":  "Graz-Kalwang UKH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Albert Schweitzer Klinik",
+        "Kurzbezeichnung":  "Graz GERIAT ASK",
+        "Versorgungssektor":  "Langzeitversorgung"
+    },
+    {
+        "Bezeichnung":  "Sanitätszentrum Süd / Feldambulanz",
+        "Kurzbezeichnung":  "Graz HSA",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Privatklinik für psychosomatische Therapie",
+        "Kurzbezeichnung":  "Bad Aussee PKL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Krankenhaus der Barmherzigen Brüder Graz",
+        "Kurzbezeichnung":  "Graz BBR KH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Krankenhaus der Elisabethinen Graz",
+        "Kurzbezeichnung":  "Graz ELISAB KH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Privatklinik Leech",
+        "Kurzbezeichnung":  "Graz Leech PKL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Privatklinik der Kreuzschwestern",
+        "Kurzbezeichnung":  "Graz KSR PKL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Sanatorium St. Leonhard für Frauenheilkunde und Geburtshilfe",
+        "Kurzbezeichnung":  "Graz St Leonhard SAN",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Lebenswelten der Barmherzigen Brüder - Steiermark",
+        "Kurzbezeichnung":  "Graz Kainbach BBR PZ",
+        "Versorgungssektor":  "Langzeitversorgung"
+    },
+    {
+        "Bezeichnung":  "Sonderkrankenanstalt der PVA, REHABZ für Erkrankungen des Stütz- und Bewegungsapparates und neurolgische Erkrankungen",
+        "Kurzbezeichnung":  "Gröbming REHA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Landeskrankenhaus Hartberg",
+        "Kurzbezeichnung":  "Hartberg LKH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Neurologisches Therapiezentrum Kapfenberg",
+        "Kurzbezeichnung":  "Kapfenberg NTZ",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Landeskrankenhaus Hochsteiermark",
+        "Kurzbezeichnung":  "Hochsteiermark LKH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Krankenanstaltenverbund Rottenmann-Bad Aussee",
+        "Kurzbezeichnung":  "Rottenmann-Bad Aussee KAV",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Rehabilitationszentrum St. Radegund",
+        "Kurzbezeichnung":  "St Radegund REHA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Klinik Diakonissen Schladming",
+        "Kurzbezeichnung":  "Schladming DIA KL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Rehabilitationsklinik Tobelbad",
+        "Kurzbezeichnung":  "Tobelbad REHA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Marienkrankenhaus Vorau",
+        "Kurzbezeichnung":  "Vorau MARIEN KH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Landeskrankenhaus Südsteiermark",
+        "Kurzbezeichnung":  "Südsteiermark LKH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Landeskrankenhaus Weiz",
+        "Kurzbezeichnung":  "Weiz LKH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Hansa Privatklinikum",
+        "Kurzbezeichnung":  "Graz Hansa PKL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Privatklinik St. Radegund für Innere Medizin, Psychiatrie, Neurologie, Orthopädie und Geriatrie/Gerontologie",
+        "Kurzbezeichnung":  "St Radegund PKL",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Landeskrankenhaus Weststeiermark",
+        "Kurzbezeichnung":  "Weststeiermark LKH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Albert Schweitzer Klinik (gehört zu K615)",
+        "Kurzbezeichnung":  "Graz GERIAT ASK* (K615)",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Privatklinik Kastanienhof",
+        "Kurzbezeichnung":  "Graz Kastanienhof  PKL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Privatklinik Laßnitzhöhe",
+        "Kurzbezeichnung":  "Laßnitzhöhe PKL",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Theresienhof, Klinikum für Orthopädie und orthopädische Rehabilitation",
+        "Kurzbezeichnung":  "Frohnleiten REHA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Klinik Maria Theresia, Radkersburger Hof",
+        "Kurzbezeichnung":  "Bad Radkersburg SKA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Landeskrankenhaus Murtal",
+        "Kurzbezeichnung":  "Murtal LKH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "LKH Graz II",
+        "Kurzbezeichnung":  "Graz LKH II",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Privatklinik Graz-Ragnitz",
+        "Kurzbezeichnung":  "Graz-Ragnitz PKL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Sonderkrankenanstalt für orthopädische und neuroorthopädische Rehabilitiation",
+        "Kurzbezeichnung":  "Stolzalpe SKA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Rehabilitationsklinik für Neurologie, Pädiatrie, Orthopädie und Onkologie",
+        "Kurzbezeichnung":  "Judendorf-Straßengel REHA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Pflegeanstalt für chronisch Kranke",
+        "Kurzbezeichnung":  "Leoben LPFH",
+        "Versorgungssektor":  "Langzeitversorgung"
+    },
+    {
+        "Bezeichnung":  "Pflegeanstalt für chronisch psychisch Kranke Neutillmitsch-Gralla",
+        "Kurzbezeichnung":  "Neutillmitsch-Gralla PFA",
+        "Versorgungssektor":  "Langzeitversorgung"
+    },
+    {
+        "Bezeichnung":  "OptimaMed Rehabilitationszentrum Wildbad",
+        "Kurzbezeichnung":  "Dörnstein/Steiermark REHA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Auszeit Gesundheitszentrum St. Lambrecht",
+        "Kurzbezeichnung":  "St. Lambrecht REHA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Rehabilitationszentrum Bad Häring",
+        "Kurzbezeichnung":  "Bad Häring REHA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Landeskrankenhaus Hall in Tirol",
+        "Kurzbezeichnung":  "Hall in Tirol LKH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Rehabilitationszentrum Kitzbühel",
+        "Kurzbezeichnung":  "Kitzbühel SKA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Landeskrankenhaus Universitätskliniken Innsbruck",
+        "Kurzbezeichnung":  "Innsbruck LKH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Ö. Landeskrankenhaus Hochzirl - Natters",
+        "Kurzbezeichnung":  "Hochzirl-Natters LKH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Sanatorium Kettenbrücke der Barmherzigen Schwestern",
+        "Kurzbezeichnung":  "Innsbruck BHS SAN",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Privatklinik Hochrum - Sanatorium der Kreuzschwestern Innsbruck",
+        "Kurzbezeichnung":  "Innsbruck-Hochrum KSR SAN",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Medalp Sportclinic Imst",
+        "Kurzbezeichnung":  "Imst SKA",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Bezirkskrankenhaus Lienz",
+        "Kurzbezeichnung":  "Lienz BKH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Bezirkskrankenhaus Reutte",
+        "Kurzbezeichnung":  "Reutte BKH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Bezirkskrankenhaus St. Johann in Tirol",
+        "Kurzbezeichnung":  "St Johann BKH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Bezirkskrankenhaus Schwaz",
+        "Kurzbezeichnung":  "Schwaz BKH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Krankenhaus St. Vinzenz Zams",
+        "Kurzbezeichnung":  "Zams St Vinzenz KH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Heereseigene Sonderkrankenanstalt INNSBRUCK",
+        "Kurzbezeichnung":  "Innsbruck SKA",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Rehabilitationszentrum Ederhof",
+        "Kurzbezeichnung":  "Ederhof REHA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Bezirkskrankenhaus Kufstein",
+        "Kurzbezeichnung":  "Kufstein BKH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Kursana Sanatorium Wörgl",
+        "Kurzbezeichnung":  "Wörgl SAN",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Wittlinger Therapiezentrum -  Walchsee",
+        "Kurzbezeichnung":  "Walchsee SKA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Rehabilitationszentrum Münster - Klinikum für Rehabilitation in Tirol für Neurologie, Kardiologie und Pulmologie und Onkologie",
+        "Kurzbezeichnung":  "Münster REHA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "OptimaMed Rehabilitationszentrum Wiesing",
+        "Kurzbezeichnung":  "Wiesing REHA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Landeskrankenhaus Bludenz",
+        "Kurzbezeichnung":  "Bludenz LKH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Landeskrankenhaus Bregenz",
+        "Kurzbezeichnung":  "Bregenz LKH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Krankenhaus der Stadt Dornbirn",
+        "Kurzbezeichnung":  "Dornbirn KH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Landeskrankenhaus Hohenems",
+        "Kurzbezeichnung":  "Hohenems LKH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Landeskrankenhaus Rankweil",
+        "Kurzbezeichnung":  "Rankweil LKH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Pflegeabteilung des LKH Rankweil (gehört zu K824)",
+        "Kurzbezeichnung":  "Rankweil PFA* (K824)",
+        "Versorgungssektor":  "Langzeitversorgung"
+    },
+    {
+        "Bezeichnung":  "Krankenhaus Stiftung Maria Ebene Frastanz",
+        "Kurzbezeichnung":  "Frastanz KH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Landeskrankenhaus Feldkirch",
+        "Kurzbezeichnung":  "Feldkirch LKH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Unfallsanatorium Dr. Rhomberg",
+        "Kurzbezeichnung":  "Lech USAN",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Sanatorium Dr. Schenk",
+        "Kurzbezeichnung":  "Schruns SAN",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Rehabilitationsklinik Montafon",
+        "Kurzbezeichnung":  "Schruns REHA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Hospiz am See",
+        "Kurzbezeichnung":  "Bregenz PFA",
+        "Versorgungssektor":  "Langzeitversorgung"
+    },
+    {
+        "Bezeichnung":  "Universitätsklinikum AKH Wien",
+        "Kurzbezeichnung":  "Wien AKH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Anton-Proksch-Institut",
+        "Kurzbezeichnung":  "Wien-Kalksburg API",
+        "Versorgungssektor":  "Langzeitversorgung"
+    },
+    {
+        "Bezeichnung":  "Krankenhaus der Barmherzigen Brüder",
+        "Kurzbezeichnung":  "Wien BBR KH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Krankenhaus der Barmherzigen Schwestern vom heiligen Vinzenz von Paul",
+        "Kurzbezeichnung":  "Wien BHS KH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Privatklinik Confraternität",
+        "Kurzbezeichnung":  "Confraternität PKL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Rehaklinik Baumgarten",
+        "Kurzbezeichnung":  "Baumgarten REHA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Evangelisches Krankenhaus",
+        "Kurzbezeichnung":  "Wien EKH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Wiener Gesundheitsverbund Klinik Favoriten",
+        "Kurzbezeichnung":  "WGV Klinik Favoriten",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Privatklinik Goldenes Kreuz",
+        "Kurzbezeichnung":  "Goldenes Kreuz PKL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Österreichische Gesundheitskasse - Mein Hanusch-Krankenhaus",
+        "Kurzbezeichnung":  "Hanusch KH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Sanatorium Hera",
+        "Kurzbezeichnung":  "Hera SAN",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Herz Jesu-Krankenhaus",
+        "Kurzbezeichnung":  "Herz-Jesu KH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "FRANZISKUS SPITAL",
+        "Kurzbezeichnung":  "Franziskus SP",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Wiener Gesundheitsverbund Klinik Hietzing",
+        "Kurzbezeichnung":  "WGV Klinik Hietzing",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Wiener Gesundheitsverbund Klinik Landstraße",
+        "Kurzbezeichnung":  "WGV Klinik Landstraße",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "St. Josef-Krankenhaus",
+        "Kurzbezeichnung":  "St Josef KH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Traumazentrum Wien der Allgemeinen Unfallversicherungsanstalt - Fakultätsklinikum der Sigmund Freud Privatuniversität",
+        "Kurzbezeichnung":  "Meidling und Lorenz Böhler UKH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Wiener Gesundheitsverbund Klinik Ottakring",
+        "Kurzbezeichnung":  "WGV Klinik Ottakring",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Wiener Gesundheitsverbund Pflege Baumgarten",
+        "Kurzbezeichnung":  "WGV Pflege Baumgarten",
+        "Versorgungssektor":  "Langzeitversorgung"
+    },
+    {
+        "Bezeichnung":  "Sonderkrankenanstalt der Justizanstalt Wien-Josefstadt",
+        "Kurzbezeichnung":  "Josefstadt JA SKA",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Haus der Barmherzigkeit Seeböckgasse",
+        "Kurzbezeichnung":  "HdB Seeböckgasse",
+        "Versorgungssektor":  "Langzeitversorgung"
+    },
+    {
+        "Bezeichnung":  "Heereskrankenanstalt Wien",
+        "Kurzbezeichnung":  "HSA Wien",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Wiener Gesundheitsverbund Pflege Liesing",
+        "Kurzbezeichnung":  "WGV Pflege Liesing",
+        "Versorgungssektor":  "Langzeitversorgung"
+    },
+    {
+        "Bezeichnung":  "orthopädisches Spital Speising",
+        "Kurzbezeichnung":  "Speising OSP",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Rehabilitationszentrum Meidling der Allgemeinen Unfallversicherungsanstalt",
+        "Kurzbezeichnung":  "Meidling REHA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Rudolfinerhaus",
+        "Kurzbezeichnung":  "Rudolfinerhaus PKL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Sanatorium Liebhartstal",
+        "Kurzbezeichnung":  "Liebhartstal SAN",
+        "Versorgungssektor":  "Langzeitversorgung"
+    },
+    {
+        "Bezeichnung":  "St. Anna-Kinderspital Zentrum für Kinder- und Jugendheilkunde",
+        "Kurzbezeichnung":  "St Anna KISP",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Wiener Privatklinik",
+        "Kurzbezeichnung":  "Wiener PKL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Krankenhaus Göttlicher Heiland",
+        "Kurzbezeichnung":  "Göttlicher Heiland KH",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Wiener Gesundheitsverbund Klinik Donaustadt",
+        "Kurzbezeichnung":  "WGV Klinik Donaustadt",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Wiener Gesundheitsverbund Pflege Donaustadt",
+        "Kurzbezeichnung":  "WGV Pflege Donaustadt",
+        "Versorgungssektor":  "Langzeitversorgung"
+    },
+    {
+        "Bezeichnung":  "Privatklinik Döbling - Vienna International Health Center",
+        "Kurzbezeichnung":  "Döbling PKL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Gesundheitszentrum für Selbständige",
+        "Kurzbezeichnung":  "Wien SKA",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Atomos Klinik Währing",
+        "Kurzbezeichnung":  "Währing ATOMOS KL",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Wiener Gesundheitsverbund Klinik Penzing",
+        "Kurzbezeichnung":  "WGV Klinik Penzing",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Neurologisches Rehabilitationszentrum Rosenhügel",
+        "Kurzbezeichnung":  "Rosenhügel REHA",
+        "Versorgungssektor":  "Rehabilitation"
+    },
+    {
+        "Bezeichnung":  "Haus der Barmherzigkeit Tokiostraße",
+        "Kurzbezeichnung":  "HdB Tokiostraße",
+        "Versorgungssektor":  "Langzeitversorgung"
+    },
+    {
+        "Bezeichnung":  "Wiener Gesundheitsverbund Klinik Floridsdorf",
+        "Kurzbezeichnung":  "WGV Klinik Floridsdorf",
+        "Versorgungssektor":  "Akutversorgung"
+    },
+    {
+        "Bezeichnung":  "Wiener Gesundheitsverbund Pflege Meidling",
+        "Kurzbezeichnung":  "WGV Pflege Meidling",
+        "Versorgungssektor":  "Langzeitversorgung"
+    },
+    {
+        "Bezeichnung":  "Wiener Gesundheitsverbund Pflege Leopoldstadt",
+        "Kurzbezeichnung":  "WGV Pflege Leopoldstadt",
+        "Versorgungssektor":  "Langzeitversorgung"
+    },
+    {
+        "Bezeichnung":  "Wiener Gesundheitsverbund Pflege Simmering",
+        "Kurzbezeichnung":  "WGV Pflege Simmering",
+        "Versorgungssektor":  "Langzeitversorgung"
+    },
+    {
+        "Bezeichnung":  "Wiener Gesundheitsverbund Pflege Rudolfsheim-Fünfhaus",
+        "Kurzbezeichnung":  "WGV Pflege Rudolfsheim",
+        "Versorgungssektor":  "Langzeitversorgung"
+    },
+    {
+        "Bezeichnung":  "Wiener Gesundheitsverbund Pflege Innerfavoriten",
+        "Kurzbezeichnung":  "WGV Pflege Innerfavoriten",
+        "Versorgungssektor":  "Langzeitversorgung"
+    },
+    {
+        "Bezeichnung":  "Kuzbari Zentrum für Ästhetische Medizin",
+        "Kurzbezeichnung":  "Wien ZÄM",
+        "Versorgungssektor":  "Akutversorgung"
+    }
+]
