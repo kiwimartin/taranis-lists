@@ -2,2158 +2,1190 @@
     "version": 1,
     "data": [
         {
-            "name": "hospitals",
-            "description": "Hospitals located in Austria",
+            "name": "Health",
+            "description": "Health",
             "usage": 4,
-            "link": "https://raw.githubusercontent.com/kiwimartin/taranis-lists/edit/main/AT-Hospitals.json",
+            "link": "https://raw.githubusercontent.com/kiwimartin/taranis-lists/main/health.json",
             "entries": [
                 {
                     "value": "Rehabilitationszentrum für Herz-Kreislauferkrankungen Bad Tatzmannsdorf",
-                    "category": "Rehabilitation"
+                    "category": "Einrichtungen"
                 },
                 {
                     "value": "Krankenhaus der Barmherzigen Brüder Eisenstadt GmbH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Klinik Güssing",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Klinik Kittsee",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Klinik Oberpullendorf",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Klinik Oberwart",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Orthopädisches Klinikum SKA Zicksee",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Heilpädagogisches Zentrum Rust",
-                    "category": "Langzeitversorgung"
-                },
-                {
-                    "value": "BVAEB Therapiezentrum Rosalienhof",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Sonderkrankenanstalt  Onkologische Rehabilitation - Der Sonnberghof",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Sonderkrankenanstalt für neurologische Rehabilitation Kittsee",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Krankenhaus des Deutschen Ordens Friesach GmbH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Gailtal-Klinik Hermagor",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Klinikum - Klagenfurt am Wörthersee (LKH Klagenfurt)",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Krankenhaus der Elisabethinen Klagenfurt GmbH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Unfallkrankenhaus Klagenfurt",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Abteilung für chronische Kranke im Klinikum Klagenfurt am Wörthersee",
-                    "category": "Langzeitversorgung"
-                },
-                {
-                    "value": "Privatklinik Maria Hilf Klagenfurt",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Landeskrankenhaus Laas",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Krankenhaus der Barmherzigen Brüder St. Veit/Glan",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Krankenhaus Spittal/Drau",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Landeskrankenhaus Villach",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Abteilung für chronisch Kranke im Landeskrankenhaus Villach",
-                    "category": "Langzeitversorgung"
-                },
-                {
-                    "value": "Krankenhaus Waiern",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Landeskrankenhaus Wolfsberg",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Abteilung für chronische Kranke und Zentrum für Lymphologie im Landeskrankenhaus Wolfsberg",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Sonderkrankenanstalt de La Tour",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Privatklinik Villach",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Interdisziplinäre Sonderkrankenanstalt für Rehabilitation",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Sonderkrankenanstalt  Die Schrothkur Obervellach",
-                    "category": "Genesung/Prävention"
-                },
-                {
-                    "value": "Abteilung für chronisch Kranke im Landeskrankenhaus Laas",
-                    "category": "Langzeitversorgung"
-                },
-                {
-                    "value": "Sonderkrankenanstalt für Orthopädie und orthopädische Chirurgie Warmbad-Villach",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Rehabilitationsklinik für seelische Gesundheit und Prävention",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Sonderkrankenanstalt für medizinische Rehabilitation Thermenhof",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "KABEG Gailtalklinik",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Sonderkrankenhaus Sarepta-Spezialkliinik für Essstörungen",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Landesklinikum Amstetten",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Klinikum am Kurpark Baden für Orthopädie und Rheumatologie",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Sonderkrankenanstalt Bad Schönau",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "SKA-RZ-Pensionsversicherungsanstalt Felbring im Schneebergland",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Landesklinikum Hochegg",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Landesklinikum Hainburg",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Rehabilitationszentrum Hochegg",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Landesklinikum Hollabrunn",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Landesklinikum Klosterneuburg",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Universitätsklinikum Krems",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Rehabilitationszentrum für Bewegungsstörungen und rheumatische Erkrankungen",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Landesklinikum Mauer",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Landesklinikum Melk",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Landesklinikum Mistelbach-Gänserndorf",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Landesklinikum Neunkirchen",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Sonderkrankenanstalt Gesundheitsresort Raxblick",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Landesklinikum Scheibbs",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Sonderkrankenanstalt der Justizanstalt Wien-Josefstadt (Außenstelle Wilhelmshöhe)",
-                    "category": "Langzeitversorgung"
-                },
-                {
-                    "value": "Landesklinikum Waidhofen/Ybbs",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Landesklinikum Wiener Neustadt",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Therapiezentrum Ybbs",
-                    "category": "Langzeitversorgung"
-                },
-                {
-                    "value": "Österreichische Gesundheitskasse - Mein Peterhof Baden",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "R-SKA Baden",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Sonderkrankenanstalt für Herz- und Kreislauferkrankungen Groß Gerungs",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Rehabilitationszentrum \u0027Weißer Hof\u0027 Klosterneuburg",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Sonderkrankenanstalt Moorheilbad Harbach",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Rehabilitationszentrum Alland",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Klinik Pirawarth, Kur- und Rehabilitationszentrum",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "BVAEB Therapiezentrum Buchenberg",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Landesklinikum Horn-Allentsteig",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Landesklinikum Korneuburg-Stockerau",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Universitätsklinikum Tulln",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Landesklinikum Baden-Mödling-Hinterbrühl",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Sonderkrankenanstalt Marienhof",
-                    "category": "Langzeitversorgung"
-                },
-                {
-                    "value": "Universitätsklinikum St. Pölten-Lilienfeld",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Landesklinikum Gmünd-Waidhofen/Thaya-Zwettl",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Psychosomatisches Zentrum Eggenburg - Rehabilitationsklinik Gars am Kamp",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Sonderkrankenanstalt Ottenschlag",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "BVAEB Rehabilitationszentrum Engelsbad",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Waldsanatorium Perchtoldsdorf",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Sonderkrankenanstalt für Psychiatrie Krems-Hollenburg",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Psychosomatisches Zentrum Eggenburg - Rehabilitationsklinik Gars am Kamp (gehört zu K384)",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Sonderkrankenanstalt für Remobilisation/Nachsorge und onkologische Rehabilitation",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "kokon Bad Erlach, Reha für junge Menschen",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Sonderkrankenanstalt für stationäre psychiatrische Rehabilitation",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Krankenhaus \u0027St. Josef\u0027  Braunau am Inn",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Klinikum Freistadt",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Sonderkrankenanstalt für neurologische und pneumologische Rehabilitation",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Sanitätsanstalt Hörsching des Militärkommandos Oberösterreich",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Krankenhaus der Barmherzigen Brüder Linz",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Krankenhaus der Barmherzigen Schwestern vom Hl. Vinzenz von Paul Linz",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Krankenhaus der Elisabethinen Linz",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Unfallkrankenhaus Linz",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Klinik Diakonissen Linz",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Krankenhaus der Barmherzigen Schwestern vom Hl. Vinzenz von Paul Ried",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Klinikum Schärding",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Sonderkrankenanstalt Sierning",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Klinikum Wels-Grieskirchen",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Sonderkrankenanstalt zur Behandlung unspezifischer Atemwegserkrankungen, Erkrankungen des rheumatischen Formenkreises sowie für postoperative Rehabilitation",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Klinikum Bad Hall für Herz- Kreislauf- und neurologische Rehabilitation",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Sonderkrankenanstalt  - Rehabilitationszentrum Bad Schallerbach (SKA - RZ Bad Schallerbach)",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Klinikum Rohrbach",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Rehabilitationszentrum Bad Ischl-Lindau",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Rehabilitationszentrum St. Georgen",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Sonderkrankenanstalt für Kinder- und Jugendneuropsychiatrie",
-                    "category": "Langzeitversorgung"
-                },
-                {
-                    "value": "HerzReha Herz Kreislaufzentrum Bad Ischl",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Sonderkrankenanstalt für Herz- und Kreislauferkrankungen, Stoffwechselerkrankungen sowie Atemwegserkrankungen  BVAEB Rehabilitationszentrum Austria",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "OptimaMed Rehabilitationszentrum Aspach",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Sonderkrankenanstalt für neurologische und orth. Rehabilitation und Kinderrehabilitation",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "OptimaMed Rehabilitationszentrum Bad Wimsbach",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Sonderkrankenanstalt für neurologische Rehabilitation Altmünster",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Das Klinikum Bad Hall/Bad Schallerbach, Zentrum für Herz-Kreislauf-, neurologische und orthopädische Rehabilitation (Standort Bad Schallerbach)",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Pyhrn-Eisenwurzen Klinikum Kirchdorf Steyr",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Linz Kepler Universitätsklinikum",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Salzkammergut-Klinikum",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Sonderkrankenanstalt Rehabilitationszentrum für psychische Rehabilitation in Bad Hall  BVAEB Therapiezentrum Justuspark",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Rehabilitationszentrum Vortuna Bad Leonfelden",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "kokon Rohrbach-Berg Reha für junge Menschen",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Rehabilitationszentrum Bad Hofgastein",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Landesklinik Hallein",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Krankenhaus Oberndorf",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Krankenanstalt Obertauern Dr. Aufmesser",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Sanatorium Oberthurnhof  St. Jakob am Thurn",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Krankenanstalt Radstadt Dr. Aufmesser",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Landeskrankenhaus Salzburg - Universitätsklinikum der PMU",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Unfallkrankenhaus Salzburg",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Privatklinik Wehrle - Diakonissen, Standort Aigen",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Krankenhaus der Barmherzigen Brüder  Salzburg",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Christian-Doppler-Klinik Salzburg - Universitätsklinikum der PMU",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Landesklinik St. Veit",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Kardinal Schwarzenberg Klinikum",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Landesklinik Tamsweg",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Tauernklinikum Standort Zell am See und Standort Mittersill",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Klinikum Bad Gastein für Orthopädie und Rheumatologie",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Suchthilfe Klinik Salzburg",
-                    "category": "Langzeitversorgung"
-                },
-                {
-                    "value": "Rehabilitationszentrum Saalfelden",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Privatklinik Ritzensee",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Rehabilitationszentrum Großgmain",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Emco Privatklinik",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Klinik St. Barbara - Medizinisches Zentrum Bad Vigaun",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "PKS Privatklinik Salzburg",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Krankenanstalt Altenmarkt",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Krankenhaus Abtenau",
-                    "category": "Langzeitversorgung"
-                },
-                {
-                    "value": "NeuroCare Rehaklinik Salzburg",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Rehabilitationszentrum für Stoffwechsel- und Gastroenterologische Erkrankungen",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Rehabilitstionszentrum Oberndorf",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Rehabilitationszentrum Bad Vigaun",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Sonderkrankenanstalt für Neurorehabilitation für Kinder und Jugendliche",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Landesklinik St Veit (gehört zu K533)",
-                    "category": "Langzeitversorgung"
-                },
-                {
-                    "value": "Onkologisches Rehabilitationszentrum St. Veit/Pongau",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Rehaklinik Sonnberg",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Rehabilitationszentrum Aflenz",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Rehabilitationszentrum Bad Aussee",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Klinikum Bad Gleichenberg für Lungen- und Stoffwechselerkrankungen",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Landeskrankenhaus Oststeiermark",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "AMEOS Klinikum Bad Aussee",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Landeskrankenhaus-Universitätsklinikum Graz",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Unfallkrankenhaus Steiermark",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Albert Schweitzer Klinik",
-                    "category": "Langzeitversorgung"
-                },
-                {
-                    "value": "Sanitätszentrum Süd / Feldambulanz",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Privatklinik für psychosomatische Therapie",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Krankenhaus der Barmherzigen Brüder Graz",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Krankenhaus der Elisabethinen Graz",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Privatklinik Leech",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Privatklinik der Kreuzschwestern",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Sanatorium St. Leonhard für Frauenheilkunde und Geburtshilfe",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Lebenswelten der Barmherzigen Brüder - Steiermark",
-                    "category": "Langzeitversorgung"
-                },
-                {
-                    "value": "Sonderkrankenanstalt der PVA, REHABZ für Erkrankungen des Stütz- und Bewegungsapparates und neurolgische Erkrankungen",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Landeskrankenhaus Hartberg",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Neurologisches Therapiezentrum Kapfenberg",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Landeskrankenhaus Hochsteiermark",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Krankenanstaltenverbund Rottenmann-Bad Aussee",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Rehabilitationszentrum St. Radegund",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Klinik Diakonissen Schladming",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Rehabilitationsklinik Tobelbad",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Marienkrankenhaus Vorau",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Landeskrankenhaus Südsteiermark",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Landeskrankenhaus Weiz",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Hansa Privatklinikum",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Privatklinik St. Radegund für Innere Medizin, Psychiatrie, Neurologie, Orthopädie und Geriatrie/Gerontologie",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Landeskrankenhaus Weststeiermark",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Albert Schweitzer Klinik (gehört zu K615)",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Privatklinik Kastanienhof",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Privatklinik Laßnitzhöhe",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Theresienhof, Klinikum für Orthopädie und orthopädische Rehabilitation",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Klinik Maria Theresia, Radkersburger Hof",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Landeskrankenhaus Murtal",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "LKH Graz II",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Privatklinik Graz-Ragnitz",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Sonderkrankenanstalt für orthopädische und neuroorthopädische Rehabilitiation",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Rehabilitationsklinik für Neurologie, Pädiatrie, Orthopädie und Onkologie",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Pflegeanstalt für chronisch Kranke",
-                    "category": "Langzeitversorgung"
-                },
-                {
-                    "value": "Pflegeanstalt für chronisch psychisch Kranke Neutillmitsch-Gralla",
-                    "category": "Langzeitversorgung"
-                },
-                {
-                    "value": "OptimaMed Rehabilitationszentrum Wildbad",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Auszeit Gesundheitszentrum St. Lambrecht",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Rehabilitationszentrum Bad Häring",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Landeskrankenhaus Hall in Tirol",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Rehabilitationszentrum Kitzbühel",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Landeskrankenhaus Universitätskliniken Innsbruck",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Ö. Landeskrankenhaus Hochzirl - Natters",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Sanatorium Kettenbrücke der Barmherzigen Schwestern",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Privatklinik Hochrum - Sanatorium der Kreuzschwestern Innsbruck",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Medalp Sportclinic Imst",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Bezirkskrankenhaus Lienz",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Bezirkskrankenhaus Reutte",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Bezirkskrankenhaus St. Johann in Tirol",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Bezirkskrankenhaus Schwaz",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Krankenhaus St. Vinzenz Zams",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Heereseigene Sonderkrankenanstalt INNSBRUCK",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Rehabilitationszentrum Ederhof",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Bezirkskrankenhaus Kufstein",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Kursana Sanatorium Wörgl",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Wittlinger Therapiezentrum -  Walchsee",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Rehabilitationszentrum Münster - Klinikum für Rehabilitation in Tirol für Neurologie, Kardiologie und Pulmologie und Onkologie",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "OptimaMed Rehabilitationszentrum Wiesing",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Landeskrankenhaus Bludenz",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Landeskrankenhaus Bregenz",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Krankenhaus der Stadt Dornbirn",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Krankenhaus Dornbirn",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Landeskrankenhaus Hohenems",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Landeskrankenhaus Rankweil",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Pflegeabteilung des LKH Rankweil (gehört zu K824)",
-                    "category": "Langzeitversorgung"
-                },
-                {
-                    "value": "Krankenhaus Stiftung Maria Ebene Frastanz",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Landeskrankenhaus Feldkirch",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Unfallsanatorium Dr. Rhomberg",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Sanatorium Dr. Schenk",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Rehabilitationsklinik Montafon",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Hospiz am See",
-                    "category": "Langzeitversorgung"
-                },
-                {
-                    "value": "Universitätsklinikum AKH Wien",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Anton-Proksch-Institut",
-                    "category": "Langzeitversorgung"
+                    "category": "Einrichtungen"
                 },
                 {
                     "value": "Krankenhaus der Barmherzigen Brüder",
-                    "category": "Akutversorgung"
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Bermherzigen Brüder",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinik Güssing",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Güssing",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Güssing",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinik Kittsee",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Kittsee",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Kittsee",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinik Oberpullendorf",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Oberpullendorf",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Oberpullendorf",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinik Oberwart",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Oberwart",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Oberwart",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Orthopädisches Klinikum SKA Zicksee",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Heilpädagogisches Zentrum Rust",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "BVAEB Therapiezentrum Rosalienhof",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Therapiezentrum Rosalienhof",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt  Onkologische Rehabilitation - Der Sonnberghof",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Der Sonnberghof",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt für neurologische Rehabilitation Kittsee",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationszentrum Kittsee",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt Kittsee",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus des Deutschen Ordens Friesach GmbH",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Friesach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Friesach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Gailtal-Klinik Hermagor",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinikum - Klagenfurt am Wörthersee (LKH Klagenfurt)",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Klagenfurt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "LKH Klagenfurt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenhaus Klagenfurt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus der Elisabethinen Klagenfurt GmbH",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus der Elsabethinen",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus der Elsabethinen Klagenfurt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Unfallkrankenhaus Klagenfurt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "UKH Klagenfurt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Abteilung für chronische Kranke im Klinikum Klagenfurt am Wörthersee",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Privatklinik Maria Hilf Klagenfurt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenhaus Laas",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Laas",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus der Barmherzigen Brüder St. Veit/Glan",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Barmherzigen Brüder St. Veit/Glan",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus St. Veit",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Spittal/Drau",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Spittal",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenhaus Villach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Villach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Abteilung für chronisch Kranke im Landeskrankenhaus Villach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Waiern",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinik Waiern",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Waiern",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenhaus Wolfsberg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Wolfsberg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinik Wolfsberg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Abteilung für chronische Kranke und Zentrum für Lymphologie im Landeskrankenhaus Wolfsberg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt de La Tour",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Privatklinik Villach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Interdisziplinäre Sonderkrankenanstalt für Rehabilitation",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt  Die Schrothkur Obervellach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Abteilung für chronisch Kranke im Landeskrankenhaus Laas",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt für Orthopädie und orthopädische Chirurgie Warmbad-Villach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "mental health reha-klinik klagenfurt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt für medizinische Rehabilitation Thermenhof",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "KABEG Gailtalklinik",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landesklinikum Amstetten",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinikum am Kurpark Baden für Orthopädie und Rheumatologie",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt Bad Schönau",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "SKA-RZ-Pensionsversicherungsanstalt Felbring im Schneebergland",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landesklinikum Hochegg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landesklinikum Hainburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationszentrum Hochegg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landesklinikum Hollabrunn",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landesklinikum Klosterneuburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Universitätsklinikum Krems",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationszentrum für Bewegungsstörungen und rheumatische Erkrankungen",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landesklinikum Mauer",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landesklinikum Melk",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landesklinikum Mistelbach-Gänserndorf",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landesklinikum Neunkirchen",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt Gesundheitsresort Raxblick",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landesklinikum Scheibbs",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt der Justizanstalt Wien-Josefstadt (Außenstelle Wilhelmshöhe)",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landesklinikum Waidhofen/Ybbs",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landesklinikum Wiener Neustadt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Therapiezentrum Ybbs",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Österreichische Gesundheitskasse - Mein Peterhof Baden",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "R-SKA Baden",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt für Herz- und Kreislauferkrankungen Groß Gerungs",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationszentrum 'Weißer Hof' Klosterneuburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt Moorheilbad Harbach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationszentrum Alland",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinik Pirawarth, Kur- und Rehabilitationszentrum",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "BVAEB Therapiezentrum Buchenberg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landesklinikum Horn-Allentsteig",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landesklinikum Korneuburg-Stockerau",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Universitätsklinikum Tulln",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landesklinikum Baden-Mödling-Hinterbrühl",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt Marienhof",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Universitätsklinikum St. Pölten-Lilienfeld",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landesklinikum Gmünd-Waidhofen/Thaya-Zwettl",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Psychosomatisches Zentrum Eggenburg - Rehabilitationsklinik Gars am Kamp",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt Ottenschlag",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "BVAEB Rehabilitationszentrum Engelsbad",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Waldsanatorium Perchtoldsdorf",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt für Psychiatrie Krems-Hollenburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Psychosomatisches Zentrum Eggenburg - Rehabilitationsklinik Gars am Kamp (gehört zu K384)",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt für Remobilisation/Nachsorge und onkologische Rehabilitation",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "kokon Bad Erlach, Reha für junge Menschen",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt für stationäre psychiatrische Rehabilitation",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus 'St. Josef'  Braunau am Inn",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinikum Freistadt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt für neurologische und pneumologische Rehabilitation",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sanitätsanstalt Hörsching des Militärkommandos Oberösterreich",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus der Barmherzigen Brüder Linz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus der Barmherzigen Schwestern vom Hl. Vinzenz von Paul Linz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus der Elisabethinen Linz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Unfallkrankenhaus Linz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinik Diakonissen Linz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus der Barmherzigen Schwestern vom Hl. Vinzenz von Paul Ried",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinikum Schärding",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt Sierning",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinikum Wels-Grieskirchen",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt zur Behandlung unspezifischer Atemwegserkrankungen, Erkrankungen des rheumatischen Formenkreises sowie für postoperative Rehabilitation",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinikum Bad Hall für Herz- Kreislauf- und neurologische Rehabilitation",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt  - Rehabilitationszentrum Bad Schallerbach (SKA - RZ Bad Schallerbach)",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinikum Rohrbach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationszentrum Bad Ischl-Lindau",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationszentrum St. Georgen",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt für Kinder- und Jugendneuropsychiatrie",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "HerzReha Herz Kreislaufzentrum Bad Ischl",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt für Herz- und Kreislauferkrankungen, Stoffwechselerkrankungen sowie Atemwegserkrankungen – BVAEB Rehabilitationszentrum Austria",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "OptimaMed Rehabilitationszentrum Aspach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt für neurologische und orth. Rehabilitation und Kinderrehabilitation",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "OptimaMed Rehabilitationszentrum Bad Wimsbach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt für neurologische Rehabilitation Altmünster",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Das Klinikum Bad Hall/Bad Schallerbach, Zentrum für Herz-Kreislauf-, neurologische und orthopädische Rehabilitation (Standort Bad Schallerbach)",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Pyhrn-Eisenwurzen Klinikum Kirchdorf Steyr",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Linz Kepler Universitätsklinikum",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Salzkammergut-Klinikum",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt Rehabilitationszentrum für psychische Rehabilitation in Bad Hall – BVAEB Therapiezentrum Justuspark",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationszentrum Vortuna Bad Leonfelden",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "kokon Rohrbach-Berg Reha für junge Menschen",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationszentrum Bad Hofgastein",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landesklinik Hallein",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Oberndorf",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Obertauern Dr. Aufmesser",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sanatorium Oberthurnhof  St. Jakob am Thurn",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Radstadt Dr. Aufmesser",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenhaus Salzburg - Universitätsklinikum der PMU",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Unfallkrankenhaus Salzburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Privatklinik Wehrle - Diakonissen, Standort Aigen",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus der Barmherzigen Brüder  Salzburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Christian-Doppler-Klinik Salzburg - Universitätsklinikum der PMU",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landesklinik St. Veit",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Kardinal Schwarzenberg Klinikum",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landesklinik Tamsweg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Tauernklinikum Standort Zell am See und Standort Mittersill",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinikum Bad Gastein für Orthopädie und Rheumatologie",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Suchthilfe Klinik Salzburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationszentrum Saalfelden",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Privatklinik Ritzensee",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationszentrum Großgmain",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Emco Privatklinik",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinik St. Barbara - Medizinisches Zentrum Bad Vigaun",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "PKS Privatklinik Salzburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Altenmarkt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Abtenau",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "NeuroCare Rehaklinik Salzburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitstionszentrum Oberndorf",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationszentrum Bad Vigaun",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt für Neurorehabilitation für Kinder und Jugendliche",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landesklinik St Veit (gehört zu K533)",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Onkologisches Rehabilitationszentrum St. Veit/Pongau",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehaklinik Sonnberg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationszentrum Aflenz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationszentrum Bad Aussee",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinikum Bad Gleichenberg für Lungen- und Stoffwechselerkrankungen",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenhaus Oststeiermark",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "AMEOS Klinikum Bad Aussee",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenhaus-Universitätsklinikum Graz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Unfallkrankenhaus Steiermark",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Albert Schweitzer Klinik",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sanitätszentrum Süd / Feldambulanz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Privatklinik für psychosomatische Therapie",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus der Barmherzigen Brüder Graz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus der Elisabethinen Graz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Privatklinik Leech",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Privatklinik der Kreuzschwestern",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sanatorium St. Leonhard für Frauenheilkunde und Geburtshilfe",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Lebenswelten der Barmherzigen Brüder - Steiermark",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt der PVA, REHABZ für Erkrankungen des Stütz- und Bewegungsapparates und neurolgische Erkrankungen",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenhaus Hartberg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Neurologisches Therapiezentrum Kapfenberg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenhaus Hochsteiermark",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstaltenverbund Rottenmann-Bad Aussee",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationszentrum St. Radegund",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinik Diakonissen Schladming",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationsklinik Tobelbad",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Marienkrankenhaus Vorau",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenhaus Südsteiermark",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenhaus Weiz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Hansa Privatklinikum",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Privatklinik St. Radegund für Innere Medizin, Psychiatrie, Neurologie, Orthopädie und Geriatrie/Gerontologie",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenhaus Weststeiermark",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Albert Schweitzer Klinik (gehört zu K615)",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Privatklinik Kastanienhof",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Privatklinik Laßnitzhöhe",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Theresienhof, Klinikum für Orthopädie und orthopädische Rehabilitation",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinik Maria Theresia, Radkersburger Hof",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenhaus Murtal",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "LKH Graz II",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Privatklinik Graz-Ragnitz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationsklinik für Neurologie, Pädiatrie, Orthopädie und Onkologie",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Pflegeanstalt für chronisch Kranke",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Pflegeanstalt für chronisch psychisch Kranke Neutillmitsch-Gralla",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "OptimaMed Rehabilitationszentrum Wildbad",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationszentrum Bad Häring",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenhaus Hall in Tirol",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationszentrum Kitzbühel",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenhaus Universitätskliniken Innsbruck",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Ö. Landeskrankenhaus Hochzirl - Natters",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sanatorium Kettenbrücke der Barmherzigen Schwestern",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Privatklinik Hochrum - Sanatorium der Kreuzschwestern Innsbruck",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Medalp Sportclinic Imst",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Bezirkskrankenhaus Lienz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Bezirkskrankenhaus Reutte",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Bezirkskrankenhaus St. Johann in Tirol",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Bezirkskrankenhaus Schwaz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus St. Vinzenz Zams",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Heereseigene Sonderkrankenanstalt INNSBRUCK",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationszentrum Ederhof",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Bezirkskrankenhaus Kufstein",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Kursana Sanatorium Wörgl",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Wittlinger Therapiezentrum -  Walchsee",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationszentrum Münster - Klinikum für Rehabilitation in Tirol für Neurologie, Kardiologie und Pulmologie und Onkologie",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "OptimaMed Rehabilitationszentrum Wiesing",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenhaus Bludenz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenhaus Bregenz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus der Stadt Dornbirn",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenhaus Hohenems",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenhaus Rankweil",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Pflegeabteilung des LKH Rankweil (gehört zu K824)",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Stiftung Maria Ebene Frastanz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenhaus Feldkirch",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Unfallsanatorium Dr. Rhomberg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sanatorium Dr. Schenk",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationsklinik Montafon",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Hospiz am See",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Universitätsklinikum AKH Wien",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Anton-Proksch-Institut",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus der Barmherzigen Brüder",
+                    "category": "Einrichtungen"
                 },
                 {
                     "value": "Krankenhaus der Barmherzigen Schwestern vom heiligen Vinzenz von Paul",
-                    "category": "Akutversorgung"
+                    "category": "Einrichtungen"
                 },
                 {
                     "value": "Privatklinik Confraternität",
-                    "category": "Akutversorgung"
+                    "category": "Einrichtungen"
                 },
                 {
                     "value": "Rehaklinik Baumgarten",
-                    "category": "Rehabilitation"
+                    "category": "Einrichtungen"
                 },
                 {
                     "value": "Evangelisches Krankenhaus",
-                    "category": "Akutversorgung"
+                    "category": "Einrichtungen"
                 },
                 {
                     "value": "Wiener Gesundheitsverbund Klinik Favoriten",
-                    "category": "Akutversorgung"
+                    "category": "Einrichtungen"
                 },
                 {
                     "value": "Privatklinik Goldenes Kreuz",
-                    "category": "Akutversorgung"
+                    "category": "Einrichtungen"
                 },
                 {
                     "value": "Österreichische Gesundheitskasse - Mein Hanusch-Krankenhaus",
-                    "category": "Akutversorgung"
+                    "category": "Einrichtungen"
                 },
                 {
                     "value": "Sanatorium Hera",
-                    "category": "Akutversorgung"
+                    "category": "Einrichtungen"
                 },
                 {
                     "value": "Herz Jesu-Krankenhaus",
-                    "category": "Akutversorgung"
+                    "category": "Einrichtungen"
                 },
                 {
                     "value": "FRANZISKUS SPITAL",
-                    "category": "Akutversorgung"
+                    "category": "Einrichtungen"
                 },
                 {
                     "value": "Wiener Gesundheitsverbund Klinik Hietzing",
-                    "category": "Akutversorgung"
+                    "category": "Einrichtungen"
                 },
                 {
                     "value": "Wiener Gesundheitsverbund Klinik Landstraße",
-                    "category": "Akutversorgung"
+                    "category": "Einrichtungen"
                 },
                 {
                     "value": "St. Josef-Krankenhaus",
-                    "category": "Akutversorgung"
+                    "category": "Einrichtungen"
                 },
                 {
                     "value": "Traumazentrum Wien der Allgemeinen Unfallversicherungsanstalt - Fakultätsklinikum der Sigmund Freud Privatuniversität",
-                    "category": "Akutversorgung"
+                    "category": "Einrichtungen"
                 },
                 {
                     "value": "Wiener Gesundheitsverbund Klinik Ottakring",
-                    "category": "Akutversorgung"
+                    "category": "Einrichtungen"
                 },
                 {
                     "value": "Wiener Gesundheitsverbund Pflege Baumgarten",
-                    "category": "Langzeitversorgung"
+                    "category": "Einrichtungen"
                 },
                 {
                     "value": "Sonderkrankenanstalt der Justizanstalt Wien-Josefstadt",
-                    "category": "Akutversorgung"
+                    "category": "Einrichtungen"
                 },
                 {
                     "value": "Haus der Barmherzigkeit Seeböckgasse",
-                    "category": "Langzeitversorgung"
+                    "category": "Einrichtungen"
                 },
                 {
                     "value": "Heereskrankenanstalt Wien",
-                    "category": "Akutversorgung"
+                    "category": "Einrichtungen"
                 },
                 {
                     "value": "Wiener Gesundheitsverbund Pflege Liesing",
-                    "category": "Langzeitversorgung"
+                    "category": "Einrichtungen"
                 },
                 {
                     "value": "Orthopädisches Spital Speising",
-                    "category": "Akutversorgung"
+                    "category": "Einrichtungen"
                 },
                 {
                     "value": "Rehabilitationszentrum Meidling der Allgemeinen Unfallversicherungsanstalt",
-                    "category": "Rehabilitation"
+                    "category": "Einrichtungen"
                 },
                 {
                     "value": "Rudolfinerhaus",
-                    "category": "Akutversorgung"
+                    "category": "Einrichtungen"
                 },
                 {
                     "value": "Sanatorium Liebhartstal",
-                    "category": "Langzeitversorgung"
+                    "category": "Einrichtungen"
                 },
                 {
                     "value": "St. Anna-Kinderspital Zentrum für Kinder- und Jugendheilkunde",
-                    "category": "Akutversorgung"
+                    "category": "Einrichtungen"
                 },
                 {
                     "value": "Wiener Privatklinik",
-                    "category": "Akutversorgung"
+                    "category": "Einrichtungen"
                 },
                 {
                     "value": "Krankenhaus Göttlicher Heiland",
-                    "category": "Akutversorgung"
+                    "category": "Einrichtungen"
                 },
                 {
                     "value": "Wiener Gesundheitsverbund Klinik Donaustadt",
-                    "category": "Akutversorgung"
+                    "category": "Einrichtungen"
                 },
                 {
                     "value": "Wiener Gesundheitsverbund Pflege Donaustadt",
-                    "category": "Langzeitversorgung"
+                    "category": "Einrichtungen"
                 },
                 {
                     "value": "Privatklinik Döbling - Vienna International Health Center",
-                    "category": "Akutversorgung"
+                    "category": "Einrichtungen"
                 },
                 {
                     "value": "Gesundheitszentrum für Selbständige",
-                    "category": "Akutversorgung"
+                    "category": "Einrichtungen"
                 },
                 {
                     "value": "Atomos Klinik Währing",
-                    "category": "Akutversorgung"
+                    "category": "Einrichtungen"
                 },
                 {
                     "value": "Wiener Gesundheitsverbund Klinik Penzing",
-                    "category": "Akutversorgung"
+                    "category": "Einrichtungen"
                 },
                 {
                     "value": "Neurologisches Rehabilitationszentrum Rosenhügel",
-                    "category": "Rehabilitation"
+                    "category": "Einrichtungen"
                 },
                 {
                     "value": "Haus der Barmherzigkeit Tokiostraße",
-                    "category": "Langzeitversorgung"
+                    "category": "Einrichtungen"
                 },
                 {
                     "value": "Wiener Gesundheitsverbund Klinik Floridsdorf",
-                    "category": "Akutversorgung"
+                    "category": "Einrichtungen"
                 },
                 {
                     "value": "Wiener Gesundheitsverbund Pflege Meidling",
-                    "category": "Langzeitversorgung"
+                    "category": "Einrichtungen"
                 },
                 {
                     "value": "Wiener Gesundheitsverbund Pflege Leopoldstadt",
-                    "category": "Langzeitversorgung"
+                    "category": "Einrichtungen"
                 },
                 {
                     "value": "Wiener Gesundheitsverbund Pflege Simmering",
-                    "category": "Langzeitversorgung"
+                    "category": "Einrichtungen"
                 },
                 {
                     "value": "Wiener Gesundheitsverbund Pflege Rudolfsheim-Fünfhaus",
-                    "category": "Langzeitversorgung"
+                    "category": "Einrichtungen"
                 },
                 {
                     "value": "Wiener Gesundheitsverbund Pflege Innerfavoriten",
-                    "category": "Langzeitversorgung"
+                    "category": "Einrichtungen"
                 },
                 {
                     "value": "Kuzbari Zentrum für ästhetische Medizin",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Bad Tatzmannsd REHA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Eisenstadt BBR KH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Güssing KL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Kittsee KL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Oberpullendorf KL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Oberwart KL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "St Andrä SKA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Rust HPZ",
-                    "category": "Langzeitversorgung"
-                },
-                {
-                    "value": "Bad Tatzmannsdorf SKA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Bad Sauerbrunn SKA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Kittsee SKA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Friesach DO KH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Gailtal KL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Klagenfurt KL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Klagenfurt ELISAB KH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Klagenfurt UKH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Klagenfurt CHRKA",
-                    "category": "Langzeitversorgung"
-                },
-                {
-                    "value": "Klagenfurt PKL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Laas LKH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "St Veit/Glan BBR KH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Spittal/Drau KH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Villach LKH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Villach CHRKA",
-                    "category": "Langzeitversorgung"
-                },
-                {
-                    "value": "Waiern KH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Wolfsberg LKH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Wolfsberg CHR-LYMPH",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Winklern SKA",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Villach PKL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Althofen SKA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Obervellach SKA",
-                    "category": "Genesung/Prävention"
-                },
-                {
-                    "value": "Laas CHRKA",
-                    "category": "Langzeitversorgung"
-                },
-                {
-                    "value": "Warmbad-Villach SKA OR",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Klagenfurt SKA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Warmbad-Villach SKA REHA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Hermagor SKA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Feldkirchen Sarepta SKA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Amstetten LKL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Baden KL",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Bad Schönau SKA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Felbring REHA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Hochegg LKL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Hainburg LKL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Hochegg REHA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Hollabrunn LKL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Klosterneuburg LKL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Krems UnivKL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Laab im Walde REHA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Mauer LKL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Melk LKL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Mistelbach LKL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Neunkirchen LKL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Reichenau/Rax SKA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Scheibbs LKL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Tullnerbach-Pressbaum SKA",
-                    "category": "Langzeitversorgung"
-                },
-                {
-                    "value": "Waidhofen/Ybbs LKL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Wiener Neustadt LKL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Ybbs THERZ",
-                    "category": "Langzeitversorgung"
-                },
-                {
-                    "value": "Baden Peterhof (OEGK) REHA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Baden SKA REHA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Groß Gerungs SKA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Klosterneuburg REHA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Harbach SKA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Alland REHA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Bad Pirawarth SKA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Buchenberg SKA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Horn-Allentsteig LKL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Korneuburg-Stockerau LKL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Tulln UnivKL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Baden-Mödling-Hinterbrühl LKL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Aspang SKA",
-                    "category": "Langzeitversorgung"
-                },
-                {
-                    "value": "St Pölten-LF UnivKL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Gmünd-W/T-Zwettl LKL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Eggenburg SKA",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Ottenschlag SKA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Baden Engelsbad REHA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Perchtoldsdorf SAN",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Krems-Hollenburg PKL",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Gars am Kamp SKA* (K384)",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Bad Erlach SKA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Bad Erlach REHA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Klosterneuburg SKA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Braunau St Josef KH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Freistadt KL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Enns REHA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Hörsching HSA",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Linz BBR KH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Linz BHS KH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Linz ELISAB KH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Linz UKH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Linz DIA KH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Ried/Innkr BHS KH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Schärding KL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Sierning KSR SKA",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Wels-Grieskirchen KL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Weyer/Enns REHA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Bad Hall HKZ",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Bad Schallerbach SKA - REHA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Rohrbach KL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Bad Ischl REHA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "St Georgen REHA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Linz SKA",
-                    "category": "Langzeitversorgung"
-                },
-                {
-                    "value": "Bad Ischl SKA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Bad Schallerbach SKA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Aspach REHA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Wilhering SKA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Bad Wimsbach-Neydharting SKA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Altmünster SKA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Bad Schallerbach KL",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Pyhrn-Eisenwurzen KL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Linz Kepler UnivKL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Gmunden-Bad Ischl-Vöcklabr KL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Bad Hall TZ REHA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Bad Leonfelden REHA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Rohrbach-Berg SKA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Bad Hofg REHA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Hallein LKL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Oberndorf KH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Obertauern KA",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Puch/Hallein SAN",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Radstadt KH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Salzburg LKA",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Salzburg UKH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Salzburg Wehrle-DIA PKL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Salzburg BBR KH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Salzburg LNKL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "St Veit LKL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Schwarzach KS KL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Tamsweg LKL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Tauern KL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Bad Gastein SKA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Salzburg SKH",
-                    "category": "Langzeitversorgung"
-                },
-                {
-                    "value": "Saalfelden REHA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Saalfelden PKL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Großgmain REHA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Bad Dürrnberg PKL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Bad Vigaun KL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Salzburg PKL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Altenmarkt KH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Abtenau PFH",
-                    "category": "Langzeitversorgung"
-                },
-                {
-                    "value": "Salzburg REHA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Hallein SKA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Oberndorf REHA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Bad Vigaun REHA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Salzburg NEURO-REHA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "St Veit LKL* (K533)",
-                    "category": "Langzeitversorgung"
-                },
-                {
-                    "value": "St Veit/Pongau REHA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "St Veit Sonnberg REHA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Aflenz REHA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Bad Aussee REHA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Bad Gleichenberg KL",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Oststeiermark LKH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Bad Aussee SKA",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Graz LKH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Graz-Kalwang UKH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Graz GERIAT ASK",
-                    "category": "Langzeitversorgung"
-                },
-                {
-                    "value": "Graz HSA",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Bad Aussee PKL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Graz BBR KH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Graz ELISAB KH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Graz Leech PKL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Graz KSR PKL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Graz St Leonhard SAN",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Graz Kainbach BBR PZ",
-                    "category": "Langzeitversorgung"
-                },
-                {
-                    "value": "Gröbming REHA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Hartberg LKH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Kapfenberg NTZ",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Hochsteiermark LKH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Rottenmann-Bad Aussee KAV",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "St Radegund REHA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Schladming DIA KL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Tobelbad REHA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Vorau MARIEN KH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Südsteiermark LKH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Weiz LKH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Graz Hansa PKL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "St Radegund PKL",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Weststeiermark LKH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Graz GERIAT ASK* (K615)",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Graz Kastanienhof  PKL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Laßnitzhöhe PKL",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Frohnleiten REHA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Bad Radkersburg SKA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Murtal LKH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Graz LKH II",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Graz-Ragnitz PKL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Stolzalpe SKA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Judendorf-Straßengel REHA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Leoben LPFH",
-                    "category": "Langzeitversorgung"
-                },
-                {
-                    "value": "Neutillmitsch-Gralla PFA",
-                    "category": "Langzeitversorgung"
-                },
-                {
-                    "value": "Dürnstein/Steiermark REHA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "St. Lambrecht REHA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Bad Häring REHA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Hall in Tirol LKH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Kitzbühel SKA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Innsbruck LKH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Hochzirl-Natters LKH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Innsbruck BHS SAN",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Innsbruck-Hochrum KSR SAN",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Imst SKA",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Lienz BKH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Reutte BKH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "St Johann BKH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Schwaz BKH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Zams St Vinzenz KH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Innsbruck SKA",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Ederhof REHA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Kufstein BKH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Wörgl SAN",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Walchsee SKA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Münster REHA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Wiesing REHA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Bludenz LKH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Bregenz LKH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Dornbirn KH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Hohenems LKH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Rankweil LKH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Rankweil PFA* (K824)",
-                    "category": "Langzeitversorgung"
-                },
-                {
-                    "value": "Frastanz KH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Feldkirch LKH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Lech USAN",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Schruns SAN",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Schruns REHA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Bregenz PFA",
-                    "category": "Langzeitversorgung"
-                },
-                {
-                    "value": "Wien AKH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Wien-Kalksburg API",
-                    "category": "Langzeitversorgung"
-                },
-                {
-                    "value": "Wien BBR KH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Wien BHS KH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Confraternität PKL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Baumgarten REHA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Wien EKH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "WGV Klinik Favoriten",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Goldenes Kreuz PKL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Hanusch KH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Hera SAN",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Herz-Jesu KH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Franziskus SP",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "WGV Klinik Hietzing",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "WGV Klinik Landstraße",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "St Josef KH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Meidling und Lorenz Böhler UKH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "WGV Klinik Ottakring",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "WGV Pflege Baumgarten",
-                    "category": "Langzeitversorgung"
-                },
-                {
-                    "value": "Josefstadt JA SKA",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "HdB Seeböckgasse",
-                    "category": "Langzeitversorgung"
-                },
-                {
-                    "value": "HSA Wien",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "WGV Pflege Liesing",
-                    "category": "Langzeitversorgung"
-                },
-                {
-                    "value": "Speising OSP",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Meidling REHA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "Rudolfinerhaus PKL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Liebhartstal SAN",
-                    "category": "Langzeitversorgung"
-                },
-                {
-                    "value": "St Anna KISP",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Wiener PKL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Göttlicher Heiland KH",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "WGV Klinik Donaustadt",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "WGV Pflege Donaustadt",
-                    "category": "Langzeitversorgung"
-                },
-                {
-                    "value": "Döbling PKL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Wien SKA",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Währing ATOMOS KL",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "WGV Klinik Penzing",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "Rosenhügel REHA",
-                    "category": "Rehabilitation"
-                },
-                {
-                    "value": "HdB Tokiostraße",
-                    "category": "Langzeitversorgung"
-                },
-                {
-                    "value": "WGV Klinik Floridsdorf",
-                    "category": "Akutversorgung"
-                },
-                {
-                    "value": "WGV Pflege Meidling",
-                    "category": "Langzeitversorgung"
-                },
-                {
-                    "value": "WGV Pflege Leopoldstadt",
-                    "category": "Langzeitversorgung"
-                },
-                {
-                    "value": "WGV Pflege Simmering",
-                    "category": "Langzeitversorgung"
-                },
-                {
-                    "value": "WGV Pflege Rudolfsheim",
-                    "category": "Langzeitversorgung"
-                },
-                {
-                    "value": "WGV Pflege Innerfavoriten",
-                    "category": "Langzeitversorgung"
-                },
-                {
-                    "value": "Wien ZÄM",
-                    "category": "Akutversorgung"
+                    "category": "Einrichtungen"
                 }
             ]
         }
