@@ -1,0 +1,4245 @@
+{
+    "version": 1,
+    "data": [
+        {
+            "name": "Health",
+            "description": "Health",
+            "usage": 4,
+            "link": "https://raw.githubusercontent.com/kiwimartin/taranis-lists/main/health.json",
+            "entries": [
+                {
+                    "value": "Reha Münster",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sanitätsanstalt Hörsching",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Krems-Hollenburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Theresienhof, Klinikum für Orthopädie und orthopädische Rehabilitation",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "OptimaMed Rehabilitationszentrum Aspach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "St. Josef Spital",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Wittlinger Therapiezentrum",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Kittsee",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationszentrum Bad Ischl-Lindau",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Privatklinik der Kreuzschwestern",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinik Donaustadt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Währing",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Haus Seeböckgasse",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Orthopädie Reha Theresienhof",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinikum Rohrbach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Hansa Krankenanstalt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Freistadt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Krems",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationszentrum Bad Vigaun",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "SKA Neurorehabilitation Kinder und Jugendliche",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Wiener Gesundheitsverbund Klinik Penzing",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Privatkrankenhaus Ritzensee",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt für Orthopädie und orthopädische Chirurgie Warmbad-Villach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "RZ Großgmain",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Barmherzige Schwestern Ried",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinik Oberwart",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Reha Aflenz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt psychiatrische Rehabilitation",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationszentrum Bad Aussee",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "LKH Hochegg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "KH Friesach GmbH",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenanstalt Südsteiermark",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus 'St. Josef'  Braunau am Inn",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinik Diakonissen Schladming",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Maria Ebene Frastanz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Privatkrankenhaus Kastanienhof",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sanatorium Oberthurnhof  St. Jakob am Thurn",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt St. Josef Braunau am Inn",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Donaustadt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenhaus Südsteiermark",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Favoriten",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Traumazentrum Wien",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Albert Schweitzer K615",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinik Maria Theresia, Radkersburger Hof",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehazentrum Rohrbach-Berg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "ISR",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Hörsching",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Spittal",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Groß Gerungs",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Diakonissen Linz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Pflege Baumgarten",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Pflegeanstalt Leopoldstadt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Therapiezentrum Walchsee",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Psychosomatisches Zentrum Eggenburg - Rehabilitationsklinik Gars am Kamp",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus der Barmherzigen Brüder Linz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Pflege Leopoldstadt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "LKH Korneuburg-Stockerau",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Privatklinik Döbling",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Salzkammergut",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Maria Hilf Klagenfurt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landesklinikum Hochegg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Liebhartstal Sanatorium",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landesklinikum Gmünd-Waidhofen/Thaya-Zwettl",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Bad Schönau",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "UK Tulln",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "RZ Eggenburg K384",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Herz Jesu Spital",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenanstalt Melk",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "LKH Oststeiermark",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Reha Großgmain",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "GK Hermagor",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehazentrum Saalfelden",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinik Hietzing",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt Sierning",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt St. Josef",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Ottakring",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Universitätskrankenanstalt Krems",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landesklinikum Mauer",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Neurologische Reha Kittsee",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "SKA-RZ-Pensionsversicherungsanstalt Felbring im Schneebergland",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "KH St. Josef Braunau am Inn",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Herz Jesu-Krankenhaus",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "LKH Hohenems",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Dr. Aufmesser Radstadt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Penzing",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Reha Wiesing",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Barmherzige Brüder Eisenstadt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt Marienhof",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Oberwart",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinik Landstraße",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Abteilung für chronisch Kranke im Landeskrankenhaus Villach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationsklinik für Neurologie, Pädiatrie, Orthopädie und Onkologie",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehazentrum Hochegg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Kapfenberg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Pflegeanstalt Baumgarten",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Universitätskliniken Innsbruck",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus St Veit K533",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "LKH Innsbruck",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Reutte",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehazentrum Großgmain",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Private Krankenanstalt Villach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinikum Kardinal Schwarzenberg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Unfallsanatorium Dr. Rhomberg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Unfallkrankenhaus Salzburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "AKH Wien",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Pflegeanstalt Simmering",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Franziskus Spital",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "SKA Moorheilbad Harbach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Wiener Gesundheitsverbund Pflege Rudolfsheim-Fünfhaus",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinikum Salzkammergut",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Reha Justuspark",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Bregenz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "RZ Engelsbad",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationszentrum Bad Hofgastein",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "RZ Bad Aussee",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Radstadt Dr. Aufmesser",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Döbling",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "PK Hochrum",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Chronische Kranke LKH Villach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus der Barmherzigen Schwestern vom Hl. Vinzenz von Paul Linz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Hartberg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinik Freistadt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Pflegeabteilung des LKH Rankweil (gehört zu K824)",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt zur Behandlung unspezifischer Atemwegserkrankungen, Erkrankungen des rheumatischen Formenkreises sowie für postoperative Rehabilitation",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Neurologische Reha Altmünster",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "RZ Saalfelden",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Tauernklinikum Standort Zell am See und Standort Mittersill",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Orthopädisches Spital Speising",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Kardinal Schwarzenberg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landesklinikum Mistelbach-Gänserndorf",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Herz Kreislaufzentrum Bad Ischl",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Psychosomatische Therapie",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "KG Güssing",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Herz-Kreislauf Reha Bad Tatzmannsdorf",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Unfallkrankenanstalt Salzburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Bezirkskrankenhaus Kufstein",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehazentrum Kitzbühel",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sanatorium Hera",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenanstalt Hainburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "SKA Thermenhof",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Privatklinik Goldenes Kreuz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Barmherzigen Brüder St. Veit/Glan",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "LKH Baden-Mödling-Hinterbrühl",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "NeuroCare Reha Salzburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Dornbirn",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehazentrum Alland",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "RZ Rohrbach-Berg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenanstalt Neunkirchen",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Privatkrankenhaus St. Radegund",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Neurologische und Orthopädische Rehabilitation",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinik Favoriten",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt de La Tour",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenanstalt Scheibbs",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationszentrum Ederhof",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Gesundheitszentrum Selbständige",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "RZ Baumgarten",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Bezirkskrankenanstalt Schwaz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt der Barmherzigen Brüder Eisenstadt GmbH",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt St. Radegund",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationszentrum für Herz-Kreislauferkrankungen Bad Tatzmannsdorf",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehazentrum Wildbad",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenanstalt Mauer",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Haus der Barmherzigkeit Tokiostraße",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinik Schärding",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Villach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Militärkrankenanstalt Hörsching",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Reha Bad Hofgastein",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Kirchdorf Steyr",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenhaus Bludenz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "SKA Neuro-Reha Kittsee",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "RZ Bad Vigaun",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "KH Barmherzige Brüder",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "SKA Groß Gerungs",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt St. Vinzenz Zams",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt für stationäre psychiatrische Rehabilitation",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "RZ Alland",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Franziskus KH",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt Die Schrothkur Obervellach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Kardinal Schwarzenberg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Pflegeanstalt Rudolfsheim-Fünfhaus",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "PK Graz-Ragnitz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "KH Spittal/Drau",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinik Güssing",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Neurologische Reha",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Neurologisches Rehabilitationszentrum Rosenhügel",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Graz II",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Diakonissen Schladming",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sanatorium Wörgl",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Feldkirch",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "KO Oberpullendorf",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Therapieanstalt Ybbs",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Reha Bad Häring",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinik Waiern",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Justizanstalt Wien-Josefstadt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sanatorium Liebhartstal",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Traumazentrum Wien der Allgemeinen Unfallversicherungsanstalt - Fakultätsklinikum der Sigmund Freud Privatuniversität",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "RZ Tobelbad",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "AKK LKH Klagenfurt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Salzburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Medalp Sportclinic Imst",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "SKA Ottenschlag",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "LKH Laas",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Traumazentrum Wien",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Wiener Gesundheitsverbund Klinik Ottakring",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Haus der Barmherzigkeit Seeböckgasse",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenanstalt Mistelbach-Gänserndorf",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Altenmarkt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Anton-Proksch Institut",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Vorau",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "BVAEB Therapiezentrum Buchenberg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "St. Vinzenz Zams",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Pflegeabteilung Rankweil",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinikum Bad Gleichenberg für Lungen- und Stoffwechselerkrankungen",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Hera",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Onkologisches Rehabilitationszentrum St. Veit/Pongau",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt des Deutschen Ordens Friesach GmbH",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "KH Göttlicher Heiland",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Onkologische Reha St. Veit/Pongau",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Albert Schweitzer Klinik (gehört zu K615)",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinik Pirawarth, Kur- und Rehabilitationszentrum",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Suchthilfe Klinik Salzburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "SKA Psychiatrie Krems-Hollenburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Christian-Doppler-Klinik Salzburg - Universitätsklinikum der PMU",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenanstalt Wolfsberg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenanstalt Hochegg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Oststeiermark",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "BVAEB Therapiezentrum Rosalienhof",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenanstalt Hochsteiermark",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt der Elisabethinen Klagenfurt GmbH",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "SKA stationäre psychiatrische Rehabilitation",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Suchthilfe Reha Salzburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Wels-Grieskirchen",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "KH Barmherzige Schwestern",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Herz Jesu",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "SKA Obervellach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "KH Elisabethinen Klagenfurt GmbH",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "LKH Wiener Neustadt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt für Neurorehabilitation für Kinder und Jugendliche",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Heereskrankenanstalt Wien",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "LKH Graz II",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Floridsdorf",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehazentrum St. Radegund",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Bezirkskrankenhaus Reutte",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt - Rehabilitationszentrum Bad Schallerbach (SKA - RZ Bad Schallerbach)",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Göttlicher Heiland Spital",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Atomos Klinik Währing",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "SKA Neurologische Reha Altmünster",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Privatkrankenhaus Confraternität",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt Ottenschlag",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinik Wolfsberg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Pirawarth",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "KH St. Vinzenz Zams",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Kinder- und Jugendneuropsychiatrie SKA",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Speising",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "FRANZISKUS SPITAL",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenhaus Oststeiermark",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt für neurologische und orth. Rehabilitation und Kinderrehabilitation",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Onkologische Reha",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Vorau",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Wiener Gesundheitsverbund Klinik Landstraße",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "PK Döbling",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Neurologisches Therapiezentrum Kapfenberg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "LKH Hollabrunn",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "KK Kittsee",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinik Hermagor",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "RZ Aspach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "AKK LKH Villach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "RZ Sonnberg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "St. Anna Kinderspital",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "AMEOS Krankenanstalt Bad Aussee",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinik Diakonissen Linz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Reha Ederhof",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "RZ Bewegungsstörungen",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Heilpädagogisches Zentrum Rust",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "St. Josef Braunau am Inn",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "UKH Salzburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Döbling",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Marienkrankenhaus Vorau",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "LKH Villach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "LKH Weiz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt  - Rehabilitationszentrum Bad Schallerbach (SKA - RZ Bad Schallerbach)",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt REHABZ",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Psychosomatisches Zentrum Eggenburg - Rehabilitationsklinik Gars am Kamp (gehört zu K384)",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinik Dornbirn",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Bad Schönau",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Reha Bad Erlach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt für Herz- und Kreislauferkrankungen Groß Gerungs",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehazentrum Wiesing",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationszentrum Saalfelden",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehazentrum Engelsbad",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Kurzentrum Pirawarth",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Hollabrunn",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Spittal/Drau",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Wehrle Diakonissen Aigen",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Kinder- und Jugendneuropsychiatrie",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Korneuburg-Stockerau",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Bezirkskrankenanstalt St. Johann in Tirol",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Göttlicher Heiland",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landesklinikum Waidhofen/Ybbs",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationszentrum Vortuna Bad Leonfelden",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Dr. Rhomberg Unfallsanatorium",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Bezirkskrankenhaus Schwaz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenanstalt St Veit K533",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Leech",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Therapiezentrum Rosalienhof",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Hochzirl-Natters",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenhaus Laas",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Hospiz am See",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Barmherzige Brüder",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Universitätskrankenanstalt Tulln",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Privatklinik Hochrum - Sanatorium der Kreuzschwestern Innsbruck",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "LKH Bregenz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "LKH Salzburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Albert Schweitzer",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "KAV Rottenmann-Bad Aussee",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenanstalt Oststeiermark",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Reha Kitzbühel",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Oberthurnhof St. Jakob am Thurn",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landesklinik St Veit (gehört zu K533)",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Pflegeanstalt chronisch Kranke",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Eisenstadt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "RZ Onkologische St. Veit/Pongau",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenhaus Hall in Tirol",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationszentrum Münster - Klinikum für Rehabilitation in Tirol für Neurologie, Kardiologie und Pulmologie und Onkologie",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "PKS Salzburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Psychiatrie Krems-Hollenburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Gesundheitszentrum für Selbständige",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Pflegeanstalt Liesing",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Reha Bad Ischl-Lindau",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehazentrum Bad Ischl-Lindau",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Pflegeabteilung Rankweil",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Interdisziplinäre Sonderkrankenanstalt für Rehabilitation",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Herz Kreislaufzentrum Bad Ischl",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "BKH St. Johann in Tirol",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Privatkrankenhaus Kreuzschwestern",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationszentrum für Bewegungsstörungen und rheumatische Erkrankungen",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Abtenau",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "BKH Kufstein",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus der Stadt Dornbirn",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Elisabethinen Graz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Gailtalklinik",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Barmherzige Schwestern Ried",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Hainburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationszentrum Alland",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "LKH Weststeiermark",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehazentrum Bad Erlach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Freistadt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Lungenreha Bad Gleichenberg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Privatkrankenhaus Wehrle Diakonissen Aigen",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Chronische Kranke Klinikum Klagenfurt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Pflege Innerfavoriten",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Gesundheitsverbund Wien",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinik Amstetten",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Waldsanatorium Perchtoldsdorf",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Ritzensee",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Hallein",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus der Barmherzigen Brüder",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "RZ Suchthilfe Salzburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "SKA Wien-Josefstadt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Süd",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Universitätsklinikum Linz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Kuzbari Zentrum für ästhetische Medizin",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "LKH Neunkirchen",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Barmherzige Brüder Graz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Reha Sonnberg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Neurologische Reha SKA",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Salzkammergut",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Graz II",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Diakonissen Linz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "LKH Tamsweg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "LKH Amstetten",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "RZ Ederhof",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "ÖGK Hanusch-Krankenhaus",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Reha Wildbad",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationsklinik Gars am Kamp K384",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehazentrum Bad Schallerbach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Privatkrankenhaus Psychosomatische Therapie",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Radstadt Dr. Aufmesser",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinik Penzing",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Emco PK",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Neurologische und Pneumologische Reha",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "KO Oberwart",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sanatorium Dr. Rhomberg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Pflege Liesing",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Dr. Rhomberg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehazentrum Eggenburg K384",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Bad Hall",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt für Herz- und Kreislauferkrankungen, Stoffwechselerkrankungen sowie Atemwegserkrankungen – BVAEB Rehabilitationszentrum Austria",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Hansa PK",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehazentrum Bad Vigaun",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "SKA Marienhof",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Walchsee",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationszentrum Bad Häring",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Reha Weißer Hof Klosterneuburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "PK Ritzensee",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Hohenems",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Donaustadt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Unfallkrankenhaus Linz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Pflege Meidling",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Lymphologie Wolfsberg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Neurorehabilitation Kinder und Jugendliche",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Unfallversicherungsanstalt Wien",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Dr. Aufmesser Obertauern",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Pflegeanstalt Donaustadt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Wiener Privatkrankenhaus",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Medizinisches Zentrum Bad Vigaun",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Linz Kepler Universitätsklinikum",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Onkologische Reha Remobilisation/Nachsorge",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Anton-Proksch-Institut",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landesklinik Hallein",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Klagenfurt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenanstalt Hartberg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Landstraße",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus St. Veit",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Murtal",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landesklinikum Amstetten",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Barmherzige Schwestern",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Wiener Privatklinik",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationsanstalt Hochegg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenanstalt Gmünd-Waidhofen/Thaya-Zwettl",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Spital Speising",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Heeresspital",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehazentrum Bewegungsstörungen",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Rottenmann-Bad Aussee",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehazentrum Bad Hofgastein",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "UK St. Pölten-Lilienfeld",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Salzkammergut-Klinikum",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinikum Bad Gastein für Orthopädie und Rheumatologie",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Selbständige Gesundheitszentrum",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "BVAEB Rehabilitationszentrum Engelsbad",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinik Göttlicher Heiland",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "MHRK Klagenfurt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt Bad Schönau",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt  Onkologische Rehabilitation - Der Sonnberghof",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Neurorehabilitation Kinder und Jugendliche SKA",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "R-SKA Baden",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus der Barmherzigen Brüder St. Veit/Glan",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Barmherzige Schwestern Linz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "LKH St Veit K533",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "LKH Hall in Tirol",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehazentrum Bad Aussee",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Bezirkskrankenhaus St. Johann in Tirol",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Orthopädische Krankenanstalt SKA Zicksee",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "KH Elisabethinen Linz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Unfallversicherungsanstalt Meidling",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Südsteiermark",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Wiener Gesundheitsverbund Pflege Donaustadt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "RZ Meidling",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehazentrum Meidling",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Therapiezentrum Ybbs",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sanatorium Oberthurnhof St. Jakob am Thurn",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "SKA Raxblick",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "PK St. Radegund",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenhaus Universitätskliniken Innsbruck",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus der Elsabethinen Klagenfurt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "LKH Rankweil",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt Rehabilitationszentrum für psychische Rehabilitation in Bad Hall – BVAEB Therapiezentrum Justuspark",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Diakonissen Linz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Hospiz am See",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Liebhartstal",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Oberndorf",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenhaus-Universitätsklinikum Graz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Bezirkskrankenanstalt Lienz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "KH Altenmarkt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Unfallkrankenanstalt Linz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "NeuroCare Salzburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt de La Tour",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Kursana Sanatorium",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "KH Waiern",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Pflege Donaustadt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenhaus Bregenz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "RZ Münster",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinikum am Kurpark Baden für Orthopädie und Rheumatologie",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinik Gailtal",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt der PVA, REHABZ für Erkrankungen des Stütz- und Bewegungsapparates und neurolgische Erkrankungen",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "AKK LKH Wolfsberg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Gesundheitsresort Raxblick",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Heereskrankenhaus Wien",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt Gesundheitsresort Raxblick",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Zell am See und Mittersill",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Atemwegserkrankungen und Rheuma",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Barmherzige Brüder Salzburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt St. Leonhard",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Reha St. Georgen",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Tauernklinikum Zell am See",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Barmherzige Schwestern",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "PK Leech",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Neurologische Reha Kapfenberg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "KH Barmherzige Brüder Linz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Pflegeanstalt für chronisch psychisch Kranke Neutillmitsch-Gralla",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Hospiz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Orthopädisches KH Speising",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Das Klinikum Bad Hall/Bad Schallerbach, Zentrum für Herz-Kreislauf-, neurologische und orthopädische Rehabilitation (Standort Bad Schallerbach)",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rheumatologie Reha Bad Gastein",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Wien-Josefstadt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Heereseigene Innsbruck",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "SKA PVA REHABZ",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenanstalt Rankweil",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt chronisch psychisch Kranke",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "kokon Rohrbach-Berg Reha für junge Menschen",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Universitätsklinikum Tulln",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Rankweil",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "RZ Bad Schallerbach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landesklinikum Hollabrunn",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehazentrum Felbring",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Kirchdorf Steyr",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationsklinik Gars am Kamp",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "NeuroCare Rehaklinik Salzburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Kettenbrücke",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Zell am See und Mittersill",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinik Rohrbach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehazentrum Bad Häring",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Psychiatrische Reha stationär",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Bezirkskrankenanstalt Kufstein",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Bezirkskrankenhaus Lienz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "PK Goldenes Kreuz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Wiener Gesundheitsverbund Pflege Liesing",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Seeböckgasse",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "UK Krems",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rudolfinerhaus",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Reha St. Radegund",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sanatorium Dr. Schenk",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landesklinikum Scheibbs",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "KH Elisabethinen Graz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt Onkologische Rehabilitation - Der Sonnberghof",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Reha Meidling",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "RZ Oberndorf",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Reha Alland",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinikum Schärding",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "LKH Bludenz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Favoriten",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Kreuzschwestern",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Friesach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Reha Bewegungsstörungen",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Weststeiermark",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Privatkrankenhaus Laßnitzhöhe",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationszentrum St. Georgen",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "OptimaMed Rehabilitationszentrum Bad Wimsbach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Unfallkrankenanstalt Steiermark",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Tokiostraße",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Kardinal Schwarzenberg Klinikum",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehazentrum Ederhof",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Radstadt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehazentrum Tobelbad",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Kursana",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Gailtal-Klinik Hermagor",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Maria Theresia Radkersburger Hof",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Barmherzige Brüder Steiermark",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "RZ Rosenhügel",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Universitätsklinikum Christian-Doppler Salzburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenanstalt Weiz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus der Barmherzigen Brüder Eisenstadt GmbH",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus der Elisabethinen Klagenfurt GmbH",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Tulln",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Reha Eggenburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Private Krankenanstalt Maria Hilf Klagenfurt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "KH Barmherzige Schwestern Linz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Hochsteiermark",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Reha Montafon",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Landstraße",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "AMEOS Klinikum Bad Aussee",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehaklinik Sonnberg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "LKH St. Veit",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Herz-Kreislauf SKA Groß Gerungs",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Orthopädische Reha",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenanstalt Waidhofen/Ybbs",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sanatorium Kettenbrücke der Barmherzigen Schwestern",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "KH Barmherzige Schwestern Ried",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Wels-Grieskirchen",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Rohrbach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "HerzReha Bad Ischl",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landesklinik St. Veit",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenanstalt Korneuburg-Stockerau",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Hochrum",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Wiener Gesundheitsverbund Pflege Innerfavoriten",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitations-SKA Baden",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Altenmarkt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Evangelisches Krankenhaus",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenanstalt Horn-Allentsteig",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Unfallkrankenhaus Klagenfurt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehazentrum Sonnberg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Münster",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "RZ Bad Ischl-Lindau",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Kuzbari",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Barmherzigkeit Seeböckgasse",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "BVAEB Therapiezentrum Justuspark",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "RZ Bad Wimsbach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Reha Bad Vigaun",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Privatklinik Ritzensee",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Herz-Kreislauf Reha Bad Hall",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landesklinikum Wiener Neustadt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "KH Maria Ebene Frastanz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Oberwart",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Stoffwechselreha Bad Gleichenberg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Barmherzige Brüder St. Veit",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "PK Kastanienhof",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Bezirkskrankenanstalt Reutte",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Reha Baumgarten",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Pflege Simmering",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "St. Anna",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Universitätsklinikum AKH Wien",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "LKH Hainburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt AKH Wien",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "SKA Herz- und Kreislauferkrankungen, Stoffwechselerkrankungen und Atemwegserkrankungen",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sanatorium St. Jakob am Thurn",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Evangelisches Spital",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Herz Jesu KH",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitstionszentrum Oberndorf",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Wiener Gesundheitsverbund Pflege Meidling",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Anton-Proksch",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt St. Jakob am Thurn",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Göttlicher Heiland",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Pyhrn-Eisenwurzen Klinikum Kirchdorf Steyr",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Reha Bad Wimsbach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Elisabethinen Linz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Peterhof Baden",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehaklinik Baumgarten",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Reha Engelsbad",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Obertauern",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Pädiatrische Reha",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt für Remobilisation/Nachsorge und onkologische Rehabilitation",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "SKA Warmbad-Villach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Abteilung für chronische Kranke im Klinikum Klagenfurt am Wörthersee",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Rohrbach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Privatklinik Graz-Ragnitz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Privatklinik Villach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Schärding",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus am Kurpark Baden",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "LKH Hallein",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "PK Laßnitzhöhe",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Heereseigene SKA Innsbruck",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Dornbirn",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Stiftung Maria Ebene Frastanz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "LKH Scheibbs",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "RZ St. Radegund",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Floridsdorf",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Schwaz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Universitätsklinikum St. Pölten-Lilienfeld",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "LKH Graz 2",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sanatorium Kettenbrücke",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landesklinikum Horn-Allentsteig",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Pflegeabteilung LKH Rankweil",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "mental health reha-klinik klagenfurt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationszentrum Oberndorf",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationsanstalt Bewegungsstörungen",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Oberndorf",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt für neurologische Rehabilitation Kittsee",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Confraternität",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehazentrum Aspach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "SKA Neurologische und Pneumologische Reha",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landesklinikum Hainburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Neurologische Reha Bad Hall",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "KH Barmherzige Brüder Salzburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Orthopädie Warmbad-Villach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "ASK K615",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Reha Tobelbad",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinik Wels-Grieskirchen",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landesklinikum Klosterneuburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "PVA REHABZ Stütz- und Bewegungsapparat",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Oberpullendorf",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Hanusch-Krankenhaus",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt der Justizanstalt Wien-Josefstadt (Außenstelle Wilhelmshöhe)",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Dornbirner Krankenhaus",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Linz Kepler",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Horn-Allentsteig",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinik Kittsee",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Graz-Ragnitz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Bad Gleichenberg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "LKH Klagenfurt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus der Elsabethinen",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Oberpullendorf",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "OptimaMed Rehabilitationszentrum Wildbad",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Privatklinik Döbling - Vienna International Health Center",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Lienz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "St. Josef-Krankenhaus",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Wiener Gesundheitsverbund Klinik Hietzing",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinik Währing",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Österreichische Gesundheitskasse - Mein Peterhof Baden",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Orthopädisches Klinikum SKA Zicksee",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt Kittsee",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "RZ Vortuna Bad Leonfelden",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Harbach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sanatorium St. Leonhard",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "LKH Graz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationszentrum 'Weißer Hof' Klosterneuburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Theresienhof",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Ö. Landeskrankenhaus Hochzirl - Natters",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "KH St. Veit/Glan",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus St. Pölten-Lilienfeld",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenanstalt Baden-Mödling-Hinterbrühl",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "SKA Kinder- und Jugendneuropsychiatrie",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Therapiezentrum Buchenberg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstaltenverbund Rottenmann-Bad Aussee",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "BKH Schwaz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Pflege Rudolfsheim-Fünfhaus",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "UKH Steiermark",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt für neurologische und pneumologische Rehabilitation",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Hochzirl-Natters",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "PVA Felbring",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Christian-Doppler-Klinik Salzburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Pflege Baumgarten",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Reha Ybbs",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Privatkrankenhaus Salzburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Dr. Schenk Sanatorium",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "BVAEB Reha Austria",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Maria Theresia Radkersburger Hof",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt für Psychiatrie Krems-Hollenburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Kursana Sanatorium Wörgl",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinikum Freistadt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Friesach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "KG Gailtalklinik",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "PK Villach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt der Barmherzigen Brüder St. Veit/Glan",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenanstalt Bludenz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "RZ Weißer Hof Klosterneuburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Wiener Neustadt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "LKH Klosterneuburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Privatkrankenhaus Graz-Ragnitz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "UKH Klagenfurt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Wien-Josefstadt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "RZ Aflenz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Rottenmann-Bad Aussee",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Pflege Leopoldstadt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Dr. Schenk",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Therapiezentrum Kapfenberg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Pflegeanstalt Innerfavoriten",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenhaus Hohenems",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "KABEG Gailtalklinik",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Stiftung Maria Ebene Frastanz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Privatklinik Laßnitzhöhe",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Lebenswelten Steiermark",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Perchtoldsdorf",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Privatklinik Confraternität",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rudolfinerhaus KH",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Wiener Gesundheitsverbund Pflege Leopoldstadt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Diakonissen Schladming",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Kepler Universitätsklinikum Linz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus der Barmherzigen Schwestern vom Hl. Vinzenz von Paul Ried",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Wolfsberg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Reha Rohrbach-Berg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "PKS Privatklinik Salzburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehazentrum Bad Wimsbach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Diakonissen Schladming",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehazentrum Onkologische St. Veit/Pongau",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Wiener Gesundheitsverbund Klinik Favoriten",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "SKA Atemwegserkrankungen und Rheuma",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "LKH Hochzirl-Natters",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Universitätskrankenanstalt St. Pölten-Lilienfeld",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Wehrle Diakonissen Aigen",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Privatklinik St. Radegund für Innere Medizin, Psychiatrie, Neurologie, Orthopädie und Geriatrie/Gerontologie",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus St. Vinzenz Zams",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Neurologische Reha Rosenhügel",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Barmherzigkeit Tokiostraße",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinikum Amstetten",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "AMEOS Bad Aussee",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Barmherzige Brüder",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenhaus Weiz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationszentrum Meidling der Allgemeinen Unfallversicherungsanstalt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Feldambulanz Süd",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Hietzing",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "SKA Bad Schönau",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus St. Johann in Tirol",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landesklinikum Melk",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenhaus Hochsteiermark",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Spittal/Drau",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Vienna International Health Center",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "AKK LKH Laas",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Amstetten",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landesklinik Tamsweg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Mauer",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Abteilung für chronisch Kranke im Landeskrankenhaus Laas",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinikum Wels-Grieskirchen",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Wiener Privatklinik",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "BKH Reutte",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Kuzbari Zentrum",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landesklinikum Korneuburg-Stockerau",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehazentrum Baumgarten",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Hansa Privatkrankenhaus",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Franziskus",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "St. Anna Zentrum Kinderheilkunde",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinik Floridsdorf",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Goldenes Kreuz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "SKA Sonnberghof",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Privatklinik Leech",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Theresienhof Reha",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Heereseigene Sonderkrankenanstalt INNSBRUCK",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Privatklinik für psychosomatische Therapie",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Unfallkrankenanstalt Klagenfurt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "LKH Mauer",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Schärding",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "BKH Lienz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt Moorheilbad Harbach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Waidhofen/Ybbs",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "WPK",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Der Sonnberghof",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationszentrum Großgmain",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Elisabethinen Graz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Reha-Zentrum Bad Tatzmannsdorf",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sanatorium Perchtoldsdorf",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Pneumologische Reha SKA",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Hochegg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Hermagor",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationszentrum Pirawarth",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "ÖGK Peterhof Baden",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Reha Vortuna Bad Leonfelden",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Salzburg PMU",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Orthopädie Baden",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Gesundheitsverbund Wien",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sanatorium St. Leonhard für Frauenheilkunde und Geburtshilfe",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "SKA Psychische Reha Bad Hall",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Zentrum für Herz-Kreislauf-, neurologische und orthopädische Rehabilitation Bad Schallerbach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "ASK",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus der Barmherzigen Brüder Graz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Albert Schweitzer K615",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Laßnitzhöhe",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Emco Privatkrankenhaus",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Medalp Sportclinic",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Evangelisches Krankenhaus",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "PK Maria Hilf Klagenfurt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Scheibbs",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Barmherzige Schwestern Kettenbrücke",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Österreichische Gesundheitskasse - Mein Hanusch-Krankenhaus",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Wiener Gesundheitsverbund Pflege Simmering",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenanstalt St. Veit",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Pflege Liesing",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Obertauern Dr. Aufmesser",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Kittsee",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenanstalt Murtal",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Universitätsklinikum Graz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "SKA Sierning",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "St. Barbara Klinik Bad Vigaun",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "LKH Wolfsberg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationszentrum St. Radegund",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt für medizinische Rehabilitation Thermenhof",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Pflegeanstalt für chronisch Kranke",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "LKH Horn-Allentsteig",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Reha Rosenhügel",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Reha Austria",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Imst",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Abteilung für chronische Kranke und Zentrum für Lymphologie im Landeskrankenhaus Wolfsberg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "OptimaMed Rehabilitationszentrum Wiesing",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "LKH Feldkirch",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Mistelbach-Gänserndorf",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehazentrum Aflenz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Pflege Innerfavoriten",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Tamsweg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "KH Oberndorf",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Barmherzige Schwestern Linz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Tauernklinikum Mittersill",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationszentrum Hochegg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Gmünd-Waidhofen/Thaya-Zwettl",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Bad Vigaun",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Barmherzige Brüder Salzburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Reha Hochegg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenanstalt Hollabrunn",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Hansa Privatklinikum",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationszentrum Kittsee",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehazentrum Münster",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "HerzReha Herz Kreislaufzentrum Bad Ischl",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "RZ St. Georgen",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Barmherzige Brüder Linz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt  Die Schrothkur Obervellach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Privatkrankenhaus Villach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "UKH Linz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Felbring",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Waiern",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "AMEOS Krankenhaus Bad Aussee",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Waiern",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenhaus Salzburg - Universitätsklinikum der PMU",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "RZ Kitzbühel",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Privatkrankenhaus Hochrum",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Raxblick",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenanstalt Wiener Neustadt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinikum Kirchdorf Steyr",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Innsbruck",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt St. Anna Kinderspital",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "RZ Eggenburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Abtenau",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Wittlinger Therapiezentrum -  Walchsee",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt NeuroCare Salzburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "LKH Gmünd-Waidhofen/Thaya-Zwettl",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus der Elisabethinen Linz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt für neurologische Rehabilitation Altmünster",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "HPZ Rust",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus der Barmherzigen Brüder Salzburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinik Oberpullendorf",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Barmherzige Brüder Linz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus der Elisabethinen Graz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Onkologische Reha Sonnberghof",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "St. Anna-Kinderspital Zentrum für Kinder- und Jugendheilkunde",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "SKA Bad Schallerbach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landesklinikum Neunkirchen",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Privatkrankenhaus Leech",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Universitätsklinikum Wien",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Pflege Simmering",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenanstalt Villach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus des Deutschen Ordens Friesach GmbH",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationszentrum Kitzbühel",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt für Kinder- und Jugendneuropsychiatrie",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Reha Bad Aussee",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Hanusch-Krankenhaus",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "RZ Bad Erlach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenhaus Klagenfurt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "LKH Mistelbach-Gänserndorf",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sportclinic Imst",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehazentrum Eggenburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "LKH Hartberg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehazentrum Suchthilfe Salzburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Albert Schweitzer Klinik",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Pflege Donaustadt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenanstalt Bregenz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenanstalt Hohenems",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Orthopädie Reha Bad Gastein",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Laas",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehazentrum St. Georgen",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Güssing",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Zentrum für ästhetische Medizin",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "LKH Murtal",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Universitätsklinikum Krems",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Uniklinik AKH",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "LKH Südsteiermark",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sonderkrankenanstalt der Justizanstalt Wien-Josefstadt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Reha Bad Schallerbach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "RZ Wiesing",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Atomos Währing",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenhaus Villach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Reha Maria Theresia Radkersburger Hof",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Hietzing",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "API",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenhaus Wolfsberg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Heeres KH Wien",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Göttlicher Heiland",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "SKA de La Tour",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Wiener Gesundheitsverbund Klinik Floridsdorf",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Atomos Währing",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Moorheilbad Harbach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt chronisch Kranke",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Privatklinik Wehrle - Diakonissen, Standort Aigen",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Orthopädisches Krankenhaus Speising",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenanstalt Hallein",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Remobilisation/Nachsorge",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Unfallkrankenhaus Steiermark",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Rudolfinerhaus",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "SKA Neurologische und Orthopädische Rehabilitation",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Reha Felbring",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "LKH Hochsteiermark",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehazentrum Rosenhügel",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Pflegeanstalt chronisch psychisch Kranke",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Emco Krankenanstalt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Heereskrankenanstalt Wien",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Kastanienhof",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenanstalt Laas",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Sierning",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Chronische Kranke Laas",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehazentrum Buchenberg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Elisabethinen Linz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Bermherzigen Brüder",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenanstalt Hall in Tirol",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Güssing",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenanstalt Tamsweg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationszentrum Aflenz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Elisabethinen Krankenhaus Klagenfurt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "TZ Buchenberg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenhaus Murtal",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Selbständige Gesundheitszentrum",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenanstalt Feldkirch",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinik St. Barbara - Medizinisches Zentrum Bad Vigaun",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "KH Eisenstadt GmbH",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "KH Dornbirn",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus der Barmherzigen Brüder  Salzburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Lebenswelten der Barmherzigen Brüder - Steiermark",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Christian-Doppler Salzburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Graz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Evangelisches KH",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus der Barmherzigen Schwestern vom heiligen Vinzenz von Paul",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Bludenz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "PK Confraternität",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "TZ Ybbs",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Reha Oberndorf",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Weiz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "St. Josef KH",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "SKA Remobilisation/Nachsorge",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinik Ottakring",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinikum Bad Hall für Herz- Kreislauf- und neurologische Rehabilitation",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Haus Tokiostraße",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenhaus Weststeiermark",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Neunkirchen",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "KH Abtenau",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Emco Privatklinik",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Klagenfurt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehazentrum Oberndorf",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "LKH Melk",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "RZ Bad Häring",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinikum Bad Hall/Bad Schallerbach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Reha Saalfelden",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "RZ Wildbad",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sanitätsanstalt Hörsching des Militärkommandos Oberösterreich",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationsklinik Tobelbad",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Pflege Rudolfsheim-Fünfhaus",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Universitätsklinikum Salzburg PMU",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landesklinikum Baden-Mödling-Hinterbrühl",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "RZ Bad Hofgastein",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenanstalt Weststeiermark",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "kokon Bad Erlach, Reha für junge Menschen",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Wiener Gesundheitsverbund Pflege Baumgarten",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenanstalt Klosterneuburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "OK SKA Zicksee",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Reha SKA Baden",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationszentrum Meidling",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Reha",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sanitätszentrum Süd",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Obertauern Dr. Aufmesser",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Privatkrankenhaus Goldenes Kreuz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Kufstein",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Penzing",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenhaus Feldkirch",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Marienhof",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Wiener Gesundheitsverbund Klinik Donaustadt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationsklinik Montafon",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Baden-Mödling-Hinterbrühl",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Medizinische Reha Thermenhof",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "LKH Waidhofen/Ybbs",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Bad Gastein",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Barmherzige Brüder Graz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Pflegeanstalt Meidling",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Pflege Meidling",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Reha Aspach",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "RZ Montafon",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenhaus Hartberg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehazentrum Weißer Hof Klosterneuburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Wiener Gesundheitsverbund",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Sanitätszentrum Süd / Feldambulanz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Privatklinik Kastanienhof",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "RZ Hochegg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehazentrum Vortuna Bad Leonfelden",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenhaus Rankweil",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Melk",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinikum Klagenfurt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Kurparkklinikum Baden",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "TZ Rosalienhof",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "KH Barmherzige Brüder Graz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Hall in Tirol",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Klosterneuburg",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Wittlinger Therapiezentrum - Walchsee",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Hera Sanatorium",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenanstalt Ottenschlag",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Albert Schweitzer Krankenhaus",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Klinikum - Klagenfurt am Wörthersee (LKH Klagenfurt)",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "PK Kreuzschwestern",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Atomos Klinik",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "PK Psychosomatische Therapie",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Reha Eggenburg K384",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehazentrum Montafon",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Mein Peterhof Baden",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Privatklinik Maria Hilf Klagenfurt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Landeskrankenanstalt Amstetten",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Krankenhaus Ottakring",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rudolfinerhaus Spital",
+                    "category": "Einrichtungen"
+                }
+            ]
+        }
+    ]
+}
