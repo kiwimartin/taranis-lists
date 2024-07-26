@@ -33,7 +33,7 @@ def csv_to_json(csv_file_path, json_file_path):
                 "description": "Health",
                 "usage": 4,
                 "link": "https://raw.githubusercontent.com/kiwimartin/taranis-lists/main/health.json",
-                "entries": [{"value": entry, "category": "Einrichtungen"} for entry in entries]  # Konvertiere die Menge in eine Liste von Einträgen
+                "entries": [{"value": entry, "category": "Gesundheitssektor"} for entry in entries]  # Konvertiere die Menge in eine Liste von Einträgen
             }
         ]
     }
