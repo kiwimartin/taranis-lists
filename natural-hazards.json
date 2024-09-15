@@ -1,0 +1,21 @@
+{
+    "version": 1,
+    "data": [
+        {
+            "name": "Natural Hazards",
+            "description": "Natural Hazards",
+            "usage": 4,
+            "link": "https://raw.githubusercontent.com/kiwimartin/taranis-lists/edit/main/natural-hazards.json",
+            "entries": [
+                {
+                    "value": "Überschwemmung",
+                    "category": "Natural Hazrards"
+                },
+                {
+                    "value": "Hochwasser",
+                    "category": "Natural Hazrards"
+                }
+            ]
+        }
+    ]
+}
