@@ -16,6 +16,18 @@
                     "category": "Exploitation Status"
                 },
                 {
+                    "value": "proof of concept",
+                    "category": "Exploitation Status"
+                }, 
+                {
+                    "value": "PoC",
+                    "category": "Exploitation Status"
+                },
+                {
+                    "value": "was observed",
+                    "category": "Exploitation Status"
+                },
+                {
                     "value": "remote code execution",
                     "category": "Vulnerability Type"
                 },
