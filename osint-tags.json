@@ -22,8 +22,58 @@
                 {
                     "value": "RCE",
                     "category": "Vulnerability Type"
+                },
+                {
+                    "value": "NIS2",
+                    "category": "Laws and Regulation"
+                },
+                {
+                    "value": "NIS-2-Richtlinie",
+                    "category": "Laws and Regulation"
+                },
+                {
+                    "value": "exploited",
+                    "category": "Exploitation Status"
+                },
+                {
+                    "value": "aktiv ausgenutzt",
+                    "category": "Exploitation Status"
+                },
+                {
+                    "value": "ausgenutzt",
+                    "category": "Exploitation Status"
+                },
+                {
+                    "value": "[hoch]",
+                    "category": "BSI: CVSS Base Score"
+                },
+                {
+                    "value": "[kritisch]",
+                    "category": "BSI: CVSS Base Score"
+                },
+                {
+                    "value": "[UPDATE]",
+                    "category": "BSI: Status"
+                },
+                {
+                    "value": "[NEU]",
+                    "category": "BSI: Status"
+                },
+                {
+                    "value": "critical",
+                    "category": "Severity"
+                },
+                {
+                    "value": "kritisch",
+                    "category": "Severity"
+                },
+                {
+                    "value": "hoch",
+                    "category": "Severity"
                 }
             ]
         }
     ]
 }
+
+
