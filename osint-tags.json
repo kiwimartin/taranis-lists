@@ -3,7 +3,7 @@
     "data": [
         {
             "name": "OSINT Tags",
-            "description": "Tags used in oint research and triage",
+            "description": "Tags used in OSINT research and triage",
             "usage": 4,
             "link": "https://raw.githubusercontent.com/kiwimartin/taranis-lists/edit/main/osint-tags.json",
             "entries": [
@@ -13,6 +13,50 @@
                 },
                 {
                     "value": "actively exploited",
+                    "category": "Exploitation Status"
+                },
+                {
+                    "value": "ongoing exploitation",
+                    "category": "Exploitation Status"
+                },
+                {
+                    "value": "mass exploitation",
+                    "category": "Exploitation Status"
+                },
+                {
+                    "value": "targeted exploitation",
+                    "category": "Exploitation Status"
+                },
+                {
+                    "value": "widespread exploitation",
+                    "category": "Exploitation Status"
+                },
+                {
+                    "value": "reported exploitation",
+                    "category": "Exploitation Status"
+                },
+                {
+                    "value": "attempted exploitation",
+                    "category": "Exploitation Status"
+                },
+                {
+                    "value": "exploit observed",
+                    "category": "Exploitation Status"
+                },
+                {
+                    "value": "known exploit",
+                    "category": "Exploitation Status"
+                },
+                {
+                    "value": "exploit activity detected",
+                    "category": "Exploitation Status"
+                },
+                {
+                    "value": "ongoing malicious activity",
+                    "category": "Exploitation Status"
+                },
+                {
+                    "value": "APT exploitation",
                     "category": "Exploitation Status"
                 },
                 {
@@ -70,6 +114,58 @@
                 {
                     "value": "hoch",
                     "category": "Severity"
+                },
+                {
+                    "value": "proof of concept available",
+                    "category": "Exploitation Status"
+                },
+                {
+                    "value": "exploited in the wild",
+                    "category": "Exploitation Status"
+                },
+                {
+                    "value": "actively targeted",
+                    "category": "Exploitation Status"
+                },
+                {
+                    "value": "public PoC",
+                    "category": "Exploitation Status"
+                },
+                {
+                    "value": "exploit code published",
+                    "category": "Exploitation Status"
+                },
+                {
+                    "value": "exploit disclosed",
+                    "category": "Exploitation Status"
+                },
+                {
+                    "value": "confirmed exploitation",
+                    "category": "Exploitation Status"
+                },
+                {
+                    "value": "zero-day exploitation",
+                    "category": "Exploitation Status"
+                },
+                {
+                    "value": "critical PoC",
+                    "category": "Exploitation Status"
+                },
+                {
+                    "value": "exploit released",
+                    "category": "Exploitation Status"
+                },
+                {
+                    "value": "public exploit",
+                    "category": "Exploitation Status"
+                },
+                {
+                    "value": "active PoC",
+                    "category": "Exploitation Status"
+                },
+                {
+                    "value": "weaponized exploit",
+                    "category": "Exploitation Status"
                 }
             ]
         }
