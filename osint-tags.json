@@ -166,7 +166,12 @@
                 {
                     "value": "weaponized exploit",
                     "category": "Exploitation Status"
+                },
+                {
+                    "value": "wormable",
+                    "category": "Capability"
                 }
+                
             ]
         }
     ]
