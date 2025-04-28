@@ -14,6 +14,34 @@
                 {
                     "value": "Hochwasser",
                     "category": "Natural Hazrards"
+                },
+                {
+                    "value": "Blackout",
+                    "category": "Natural Hazrards"
+                },
+                {
+                    "value": "Fire",
+                    "category": "Natural Hazrards"
+                },
+                {
+                    "value": "Stromausfall",
+                    "category": "Natural Hazrards"
+                },
+                {
+                    "value": "Brand",
+                    "category": "Natural Hazrards"
+                },
+                {
+                    "value": "Freuer",
+                    "category": "Natural Hazrards"
+                },
+                {
+                    "value": "cut off",
+                    "category": "Natural Hazrards"
+                },
+                {
+                    "value": "flooding",
+                    "category": "Natural Hazrards"
                 }
             ]
         }
