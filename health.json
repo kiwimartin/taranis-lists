@@ -40,10 +40,6 @@
                     "category": "Einrichtungen"
                 },
                 {
-                    "value": "Klinikum",
-                    "category": "Einrichtungen"
-                },
-                {
                     "value": "Spitalsambulanz",
                     "category": "Einrichtungen"
                 },
@@ -77,6 +73,174 @@
                 },
                 {
                     "value": "Traumatologie",
+                    "category": "Krankenanstalt Fachrichtung"
+                },
+                {
+                    "value": "Gesundheitszentrum",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Ambulanz",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Gesundheitsamt",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Notaufnahme",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Emergency Department",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Emergency Room",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "ER",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "General Hospital",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Medical Center",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Health Center",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Outpatient Clinic",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Poliklinik",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitationseinrichtung",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Rehabilitation Center",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Psychiatrische Klinik",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Psychiatric Hospital",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Fachklinik",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Specialty Hospital",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Medizinisches Versorgungszentrum",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Medical Care Center",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Gesundheitsdienst",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Health Service",
+                    "category": "Einrichtungen"
+                },
+                {
+                    "value": "Kardiologie",
+                    "category": "Krankenanstalt Fachrichtung"
+                },
+                {
+                    "value": "Cardiology",
+                    "category": "Krankenanstalt Fachrichtung"
+                },
+                {
+                    "value": "Neurologie",
+                    "category": "Krankenanstalt Fachrichtung"
+                },
+                {
+                    "value": "Neurology",
+                    "category": "Krankenanstalt Fachrichtung"
+                },
+                {
+                    "value": "Onkologie",
+                    "category": "Krankenanstalt Fachrichtung"
+                },
+                {
+                    "value": "Oncology",
+                    "category": "Krankenanstalt Fachrichtung"
+                },
+                {
+                    "value": "Gynäkologie",
+                    "category": "Krankenanstalt Fachrichtung"
+                },
+                {
+                    "value": "Gynecology",
+                    "category": "Krankenanstalt Fachrichtung"
+                },
+                {
+                    "value": "Pädiatrie",
+                    "category": "Krankenanstalt Fachrichtung"
+                },
+                {
+                    "value": "Pediatrics",
+                    "category": "Krankenanstalt Fachrichtung"
+                },
+                {
+                    "value": "Dermatologie",
+                    "category": "Krankenanstalt Fachrichtung"
+                },
+                {
+                    "value": "Dermatology",
+                    "category": "Krankenanstalt Fachrichtung"
+                },
+                {
+                    "value": "Radiologie",
+                    "category": "Krankenanstalt Fachrichtung"
+                },
+                {
+                    "value": "Radiology",
+                    "category": "Krankenanstalt Fachrichtung"
+                },
+                {
+                    "value": "Chirurgie",
+                    "category": "Krankenanstalt Fachrichtung"
+                },
+                {
+                    "value": "Surgery",
+                    "category": "Krankenanstalt Fachrichtung"
+                },
+                {
+                    "value": "Innere Medizin",
+                    "category": "Krankenanstalt Fachrichtung"
+                },
+                {
+                    "value": "Internal Medicine",
+                    "category": "Krankenanstalt Fachrichtung"
+                },
+                {
+                    "value": "Psychiatrie",
+                    "category": "Krankenanstalt Fachrichtung"
+                },
+                {
+                    "value": "Psychiatry",
                     "category": "Krankenanstalt Fachrichtung"
                 }
             ]
