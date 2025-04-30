@@ -78,31 +78,7 @@
                 {
                     "value": "Traumatologie",
                     "category": "Krankenanstalt Fachrichtung"
-                },
-                {
-                    "value": "B. Braun",
-                    "category": "Medizinprodukte Hersteller"
-                },
-                {
-                    "value": "Medtronic",
-                    "category": "Medizinprodukte Hersteller"
-                },
-                {
-                    "value": "General Electric",
-                    "category": "Medizinprodukte Hersteller"
-                },
-                {
-                    "value": "Fresenius Medical Care",
-                    "category": "Medizinprodukte Hersteller"
-                },
-                {
-                    "value": "Fresenius",
-                    "category": "Medizinprodukte Hersteller"
-                },
-                {
-                    "value": "Siemens Healthcare",
-                    "category": "Medizinprodukte Hersteller"
-                }                                   
+                }
             ]
         }
     ]
