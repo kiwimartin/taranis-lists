@@ -88,22 +88,6 @@
                     "category": "Exploitation Status"
                 },
                 {
-                    "value": "[hoch]",
-                    "category": "BSI: CVSS Base Score"
-                },
-                {
-                    "value": "[kritisch]",
-                    "category": "BSI: CVSS Base Score"
-                },
-                {
-                    "value": "[UPDATE]",
-                    "category": "BSI: Status"
-                },
-                {
-                    "value": "[NEU]",
-                    "category": "BSI: Status"
-                },
-                {
                     "value": "critical",
                     "category": "Severity"
                 },
