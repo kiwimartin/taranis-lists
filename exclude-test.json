@@ -1,4 +1,3 @@
-[
   {
     "name": "exclude_reddit_bots",
     "description": "Exclude-list to filter Reddit reminder/mod bots from Atom feeds.",
@@ -12,4 +11,4 @@
       "I will be messaging you"
     ]
   }
-]
+
