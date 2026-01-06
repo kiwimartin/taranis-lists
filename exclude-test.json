@@ -1,14 +1,21 @@
-  {
-    "name": "exclude_reddit_bots",
-    "description": "Exclude-list to filter Reddit reminder/mod bots from Atom feeds.",
-    "usage": ["COLLECTOR_EXCLUDELIST"],
-    "entries": [
-      "/u/RemindMeBot",
-      "/u/AutoModerator",
-      "RemindMeBot",
-      "AutoModerator",
-      "!remind me",
-      "I will be messaging you"
-    ]
-  }
+{
+  "version": 1,
+  "data": [
+    {
+      "name": "Exclude Reddit Reminder/Bot Accounts",
+      "description": "Excludelist to filter out Reddit reminder and moderation bot accounts during collection (e.g., RemindMeBot, AutoModerator).",
+      "usage": 2,
+      "link": "REPLACE_WITH_YOUR_RAW_URL",
+      "entries": [
+        { "value": "/u/RemindMeBot", "category": "Reddit Bots" },
+        { "value": "RemindMeBot", "category": "Reddit Bots" },
 
+        { "value": "/u/AutoModerator", "category": "Reddit Bots" },
+        { "value": "AutoModerator", "category": "Reddit Bots" },
+
+        { "value": "/u/BotDefense", "category": "Reddit Bots" },
+        { "value": "BotDefense", "category": "Reddit Bots" }
+      ]
+    }
+  ]
+}
