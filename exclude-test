@@ -1,0 +1,19 @@
+{
+  "name": "reddit-bot-excludelist",
+  "description": "Exclude Reddit reminder bots, moderation bots and automated messages",
+  "usage": "COLLECTOR_EXCLUDELIST",
+  "entries": [
+    "RemindMeBot",
+    "AutoModerator",
+    "I am a bot",
+    "this action was performed automatically",
+    "!remind me",
+    "remindme!",
+    "remindmebot",
+    "/r/RemindMeBot",
+    "to be reminded",
+    "Parent commenter can",
+    "CLICK THIS LINK",
+    "contact the moderators of this subreddit"
+  ]
+}
